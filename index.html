@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cold Email Swipe File PRO — 110 Templates Across 34 Industries</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(-45deg, #0f0c29, #1a1a3e, #243b55, #1a1a3e);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            color: #e0e0e0;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+        .hero {
+            text-align: center;
+            padding: 100px 0 60px;
+        }
+        .hero h1 {
+            font-size: 3.2rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #00d4ff, #7b2ff7, #ff6fd8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 16px;
+            letter-spacing: -0.5px;
+        }
+        .hero .subtitle {
+            font-size: 1.3rem;
+            color: #94a3b8;
+            max-width: 700px;
+            margin: 0 auto 32px;
+        }
+        .hero .price-badge {
+            display: inline-block;
+            background: rgba(123, 47, 247, 0.2);
+            border: 1px solid rgba(123, 47, 247, 0.4);
+            padding: 12px 28px;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+        }
+        .hero .price-badge strong { color: #00d4ff; }
+        .cta-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #7b2ff7, #00d4ff);
+            color: #fff;
+            padding: 16px 48px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.15rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 4px 20px rgba(123, 47, 247, 0.3);
+        }
+        .cta-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 30px rgba(123, 47, 247, 0.5);
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 48px;
+            padding: 60px 0;
+            text-align: center;
+        }
+        .stat-item h3 { font-size: 2.5rem; font-weight: 800; color: #00d4ff; }
+        .stat-item p { color: #94a3b8; font-size: 0.95rem; margin-top: 4px; }
+        .section-title {
+            font-size: 2rem;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 48px;
+            color: #fff;
+        }
+        .version-badge {
+            display: inline-block;
+            background: rgba(0, 212, 255, 0.15);
+            color: #00d4ff;
+            padding: 4px 14px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            margin-bottom: 12px;
+        }
+        .industry-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 16px;
+            padding: 40px 0;
+        }
+        .industry-card {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 12px;
+            padding: 18px 20px;
+            transition: border-color 0.2s;
+        }
+        .industry-card:hover { border-color: rgba(123, 47, 247, 0.4); }
+        .industry-card h4 { color: #00d4ff; margin-bottom: 4px; font-size: 1rem; }
+        .industry-card p { color: #94a3b8; font-size: 0.85rem; }
+        .industry-card.highlight {
+            background: rgba(123, 47, 247, 0.1);
+            border-color: rgba(123, 47, 247, 0.4);
+        }
+        .pricing-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 24px;
+            padding: 40px 0;
+        }
+        .pricing-card {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 16px;
+            padding: 36px 28px;
+            text-align: center;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .pricing-card.featured {
+            border-color: rgba(123, 47, 247, 0.5);
+            background: rgba(123, 47, 247, 0.08);
+            transform: scale(1.03);
+        }
+        .pricing-card h3 { font-size: 1.3rem; color: #fff; margin-bottom: 8px; }
+        .pricing-card .price { font-size: 2.8rem; font-weight: 800; color: #00d4ff; margin: 16px 0; }
+        .pricing-card .price span { font-size: 1rem; color: #94a3b8; }
+        .pricing-card ul { list-style: none; text-align: left; margin: 20px 0; }
+        .pricing-card ul li { padding: 6px 0; color: #94a3b8; font-size: 0.9rem; }
+        .pricing-card ul li::before { content: "✓ "; color: #00d4ff; font-weight: bold; }
+        .pricing-card .cta-btn { font-size: 1rem; padding: 14px 36px; }
+        .faq {
+            padding: 60px 0;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+        .faq-item {
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+            padding: 20px 0;
+        }
+        .faq-item h4 { color: #fff; cursor: pointer; font-size: 1.05rem; }
+        .faq-item p { color: #94a3b8; margin-top: 8px; font-size: 0.9rem; }
+        .email-section {
+            text-align: center;
+            padding: 80px 0;
+            border-top: 1px solid rgba(255,255,255,0.06);
+        }
+        .email-section h2 { font-size: 1.8rem; color: #fff; margin-bottom: 12px; }
+        .email-section p { color: #94a3b8; margin-bottom: 24px; }
+        .email-form {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .email-form input {
+            padding: 14px 20px;
+            border-radius: 50px;
+            border: 1px solid rgba(255,255,255,0.15);
+            background: rgba(255,255,255,0.06);
+            color: #fff;
+            font-size: 1rem;
+            min-width: 280px;
+        }
+        .email-form input::placeholder { color: #64748b; }
+        .email-form button {
+            padding: 14px 32px;
+            border-radius: 50px;
+            border: none;
+            background: linear-gradient(135deg, #7b2ff7, #00d4ff);
+            color: #fff;
+            font-weight: 700;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            color: #64748b;
+            font-size: 0.85rem;
+        }
+        footer a { color: #7b2ff7; text-decoration: none; }
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2.2rem; }
+            .stats { flex-direction: column; gap: 24px; }
+            .pricing-card.featured { transform: none; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <section class="hero">
+            <div class="price-badge"><strong>v2.5</strong> — Just updated · <strong>110</strong> templates · <strong>34</strong> industries</div>
+            <h1>Cold Email Swipe File PRO</h1>
+            <p class="subtitle">110 battle-tested cold email templates for AI automation agencies. Copy, personalize, send. No fluff — just templates that convert.</p>
+            <a href="https://github.com/Tennie321/cold-email-swipe-file-pro/raw/main/cold-email-swipe-file.md" class="cta-btn">Download Free Preview →</a>
+        </section>
+
+        <section class="stats">
+            <div class="stat-item"><h3>110</h3><p>Proven Templates</p></div>
+            <div class="stat-item"><h3>34</h3><p>Industries Covered</p></div>
+            <div class="stat-item"><h3>12.1%</h3><p>Highest Reply Rate</p></div>
+            <div class="stat-item"><h3>$19</h3><p>Standalone / $37 Bundle</p></div>
+        </section>
+
+        <section>
+            <h2 class="section-title">All 34 Industries</h2>
+            <div class="version-badge" style="display:block; text-align:center; width:fit-content; margin:0 auto 8px;">NEW: Legal Services (v2.5)</div>
+            <div class="industry-grid">
+                <div class="industry-card"><h4>Tech / SaaS</h4><p>Templates 11–20</p></div>
+                <div class="industry-card"><h4>Healthcare</h4><p>Templates 21–25</p></div>
+                <div class="industry-card"><h4>Real Estate</h4><p>Templates 26–30</p></div>
+                <div class="industry-card"><h4>E-Commerce</h4><p>Templates 51–55</p></div>
+                <div class="industry-card"><h4>Manufacturing</h4><p>Templates 56–60</p></div>
+                <div class="industry-card"><h4>Financial Services</h4><p>Templates 61–65</p></div>
+                <div class="industry-card"><h4>Construction</h4><p>Templates 66–70</p></div>
+                <div class="industry-card"><h4>Automotive</h4><p>Templates 71–80 · v2.2</p></div>
+                <div class="industry-card"><h4>Home Services</h4><p>Templates 81–90 · v2.3</p></div>
+                <div class="industry-card"><h4>Senior Care</h4><p>Templates 91–100 · v2.4</p></div>
+                <div class="industry-card highlight"><h4>Legal Services</h4><p>Templates 101–110 · v2.5 NEW</p></div>
+                <div class="industry-card"><h4>General Outreach</h4><p>Templates 1–10</p></div>
+                <div class="industry-card"><h4>LinkedIn</h4><p>Templates 31–35</p></div>
+                <div class="industry-card"><h4>Follow-Ups</h4><p>Templates 36–40</p></div>
+                <div class="industry-card"><h4>Sales Deepeners</h4><p>Templates 41–50</p></div>
+            </div>
+        </section>
+
+        <section>
+            <h2 class="section-title">New in v2.5 — Legal Services</h2>
+            <div class="industry-grid">
+                <div class="industry-card"><h4>101. Personal Injury</h4><p>Case intake automation</p></div>
+                <div class="industry-card"><h4>102. Family Law</h4><p>Discovery & onboarding</p></div>
+                <div class="industry-card"><h4>103. Estate Planning</h4><p>Doc prep & scheduling</p></div>
+                <div class="industry-card"><h4>104. Criminal Defense</h4><p>Court date management</p></div>
+                <div class="industry-card"><h4>105. Corporate Counsel</h4><p>Contract review</p></div>
+                <div class="industry-card"><h4>106. Immigration</h4><p>Case status updates</p></div>
+                <div class="industry-card"><h4>107. Real Estate Law</h4><p>Title review & closing</p></div>
+                <div class="industry-card"><h4>108. Litigation</h4><p>Deposition prep</p></div>
+                <div class="industry-card"><h4>109. Solo Marketing</h4><p>Lead gen for solos</p></div>
+                <div class="industry-card"><h4>110. Billing</h4><p>AR & collections</p></div>
+            </div>
+        </section>
+
+        <section>
+            <h2 class="section-title">Pricing</h2>
+            <div class="pricing-cards">
+                <div class="pricing-card">
+                    <h3>Cold Email Swipe File PRO</h3>
+                    <div class="price">$19</div>
+                    <ul>
+                        <li>110 templates across 34 industries</li>
+                        <li>Instant download (Markdown file)</li>
+                        <li>Lifetime updates</li>
+                        <li>How-to-use guide included</li>
+                    </ul>
+                    <a href="#" class="cta-btn">Buy Now — $19</a>
+                </div>
+                <div class="pricing-card featured">
+                    <h3>🔥 AI Revenue Toolkit Bundle</h3>
+                    <div class="price">$37 <span>($108 value)</span></div>
+                    <ul>
+                        <li>Cold Email Swipe File PRO ($19)</li>
+                        <li>AI Agency Growth Playbook ($17)</li>
+                        <li>AI Lead Gen Prompt Pack ($12)</li>
+                        <li>Client Discovery Prompt Pack ($14)</li>
+                        <li>AI Sales Prompts Pack ($12)</li>
+                        <li>LinkedIn Authority Prompt Pack ($14)</li>
+                        <li>All future products — free</li>
+                    </ul>
+                    <a href="https://tennie321.github.io/ai-revenue-toolkit/" class="cta-btn">Get the Bundle — $37</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="faq">
+            <h2 class="section-title">FAQ</h2>
+            <div class="faq-item">
+                <h4>What format are the templates in?</h4>
+                <p>Plain Markdown (.md) file — open in any text editor, Notion, or Google Docs. Templates use `[bracketed]` fields for personalization.</p>
+            </div>
+            <div class="faq-item">
+                <h4>What industries are covered?</h4>
+                <p>34 industries including SaaS, Healthcare, Real Estate, E-Commerce, Manufacturing, Financial Services, Construction, Automotive, Home Services, Senior Care, and Legal Services — plus general outreach, LinkedIn, follow-ups, and sales deepeners.</p>
+            </div>
+            <div class="faq-item">
+                <h4>What's new in v2.5?</h4>
+                <p>10 Legal Services templates covering Personal Injury intake, Family Law discovery, Estate Planning doc prep, Criminal Defense court management, Corporate Counsel contract review, Immigration case tracking, Real Estate Law title review, Litigation deposition prep, Solo practitioner marketing, and Billing/Collections AR management.</p>
+            </div>
+            <div class="faq-item">
+                <h4>Can I resell these templates to my clients?</h4>
+                <p>The bundle includes a commercial license — white-label for agency use. Contact us for volume/enterprise pricing.</p>
+            </div>
+            <div class="faq-item">
+                <h4>How do I get updates?</h4>
+                <p>One purchase = lifetime updates. Every new version is available at the same download link.</p>
+            </div>
+        </section>
+
+        <section class="email-section">
+            <h2>Get 5 Free Templates + Industry Guide</h2>
+            <p>Join 200+ AI automation agency owners. No spam, unsubscribe anytime.</p>
+            <div class="email-form">
+                <input type="email" placeholder="your@email.com" />
+                <button>Send Free Templates →</button>
+            </div>
+        </section>
+
+        <footer>
+            <p>Product Factory · <a href="https://tennie321.github.io/ai-revenue-toolkit/">AI Revenue Toolkit</a> · Updated July 11, 2026 (v2.5)</p>
+        </footer>
+    </div>
+</body>
+</html>
