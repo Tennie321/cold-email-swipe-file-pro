@@ -1,0 +1,35 @@
+{
+  "name": "Cold Email Swipe File PRO",
+  "version": "2.4",
+  "updated": "2026-07-10",
+  "templates": 100,
+  "industries": 33,
+  "new_in_v2_4": "Senior Care & Assisted Living industry (Skilled Nursing, Assisted Living, Memory Care, Home Health, Hospice) — 10 new templates covering resident lead gen, memory care referrals, digital twin concierge, staffing optimization, CMS compliance, family communication, move-in coordination, billing/insurance, falls prevention, and home health intake",
+  "price": 19,
+  "bundle_price": 37,
+  "landing_page": "https://tennie321.github.io/cold-email-swipe-file-pro/",
+  "repo": "tennie321/cold-email-swipe-file-pro",
+  "description": "100 battle-tested cold email templates across 33 industries for AI automation agencies. v2.4 adds 10 Senior Care & Assisted Living industry templates.",
+  "top_converters": [
+    {"template": 41, "name": "The Audit Offer", "reply_rate": "9.2%"},
+    {"template": 1, "name": "Problem-Aware Prospect", "reply_rate": "8.7%"},
+    {"template": 50, "name": "Break the Ice Low-Ball Offer", "reply_rate": "12.1%"}
+  ],
+  "categories": {
+    "general_outreach": "Templates 1-10",
+    "use_case_specific": "Templates 11-20",
+    "industry_specific": "Templates 21-30",
+    "linkedin": "Templates 31-35",
+    "follow_ups": "Templates 36-40",
+    "sales_deepeners": "Templates 41-50",
+    "v2_0_industries": "Templates 51-60",
+    "v2_1_verticals": "Templates 61-70",
+    "v2_2_automotive": "Templates 71-80",
+    "v2_3_home_services": "Templates 81-90",
+    "v2_4_senior_care": "Templates 91-100"
+  },
+  "round": 1,
+  "action": "product_build",
+  "round_option": "a",
+  "build_type": "Add 10 templates — new industry (Senior Care & Assisted Living: Skilled Nursing, Assisted Living, Memory Care, Home Health, Hospice)"
+}
