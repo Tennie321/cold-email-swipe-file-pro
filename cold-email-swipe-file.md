@@ -1,6 +1,6 @@
 # Cold Email Swipe File
 ## 100 Proven Templates for AI Automation Services
-### $19 — Updated July 10, 2026 (v2.4 — Senior Care & Assisted Living Added)
+### $19 — Updated July 11, 2026 (v2.5 — Legal Services Added)
 
 ---
 
@@ -1842,6 +1842,228 @@ Best,
 
 ---
 
+## LEGAL SERVICES — Law Firms, Solo Practitioners & Legal Departments
+
+### 101. Personal Injury — Case Intake Automation
+**Subject:** AI intake agent that qualifies PI cases in 3 minutes
+
+Hi `[Name]`,
+
+Your intake team is spending 20+ minutes on every initial call — asking the same questions, typing notes, handing off to the right attorney. In the time it takes to qualify one lead, three more callers hang up.
+
+I built an AI intake agent for personal injury firms that:
+- Answers every inbound call 24/7 and screens for case viability (liability, damages, statute of limitations, venue)
+- Captures all intake data and generates a pre-populated retainer packet
+- Routes high-value cases (auto accidents, medical malpractice, premises liability) to the right attorney in under 60 seconds
+- Sends a warm handoff text to the potential client with the attorney's photo and next step
+
+For a 12-attorney PI firm, it cut intake cycle from 2.1 days to 4 hours and increased signed retainers by 34% — worth `[$240K/yr]` in additional booked cases.
+
+Free intake audit — we'll mystery-shop your current intake line. Ready to see the gap?
+
+Best,
+`[Your Name]`
+
+---
+
+### 102. Family Law — Client Onboarding & Discovery Automation
+**Subject:** AI that assembles a full discovery packet in 90 minutes — not 3 days
+
+Hi `[Name]`,
+
+New family law clients generate a firehose of documents — financial affidavits, tax returns, bank statements, property deeds. Your paralegals spend days chasing paper instead of drafting motions.
+
+I built an AI discovery agent for family law practices that:
+- Sends clients a secure intake link that guides them through document upload with plain-language instructions
+- Automatically extracts key data from uploaded docs: income, assets, debts, custody schedules
+- Populates your CaseMap/Clio/MyCase with structured data and flags inconsistencies (e.g., disclosed income vs. bank deposits)
+- Generates a first-draft financial affidavit and proposed parenting plan
+
+For a 5-attorney family law firm, it reduced onboarding throughput time from 3 days to 90 minutes and cut paralegal overtime by 12 hours/week.
+
+Free discovery workflow audit. Want to see how your current process compares?
+
+Best,
+`[Your Name]`
+
+---
+
+### 103. Estate Planning — Doc Prep & Scheduling
+**Subject:** AI wills and trusts generator — first draft in 15 minutes
+
+Hi `[Name]`,
+
+Your clients wait 3–4 weeks for a simple will or revocable trust because your team is bottlenecked on document prep. Every day the docs sit on a desk, the client's assets are unprotected and your competition gets the referral.
+
+I built an AI estate planning assistant for law firms that:
+- Interviews the client via a secure portal (assets, beneficiaries, guardians, special provisions)
+- Generates a first-draft will, living trust, healthcare POA, and financial POA in 15 minutes flat
+- Flags state-specific requirements (community property, homestead exemptions, estate tax thresholds)
+- Integrates with Clio, PracticePanther, and Smokeball for automatic matter creation
+
+For a 3-partner estate planning firm, it tripled will throughput from 8 to 24 per week and cut client wait time from 21 days to 5 days — worth `[$180K/yr]` in additional capacity.
+
+Free estate planning workflow analysis. 15 min to compare your current throughput?
+
+Best,
+`[Your Name]`
+
+---
+
+### 104. Criminal Defense — Client Communication & Court Date Management
+**Subject:** AI that texts every client their court date — and cuts no-shows by 70%
+
+Hi `[Name]`,
+
+A missed court date means a bench warrant — and a client who loses trust in you. Your defense practice relies on clients showing up, but most can't remember their arraignment date 3 weeks out.
+
+I built an AI court liaison agent for criminal defense firms that:
+- Sends automated text reminders 7 days, 3 days, 24 hours, and 1 hour before every court appearance — in the client's preferred language
+- Checks weather and public transit for disruptions and resends with alternate directions
+- Allows clients to reply with simple updates ("I have a conflict") that trigger a continuance motion prep
+- Tracks appearance rates per attorney and flags chronically no-show clients for proactive intervention
+
+For a 6-attorney criminal defense practice, it reduced bench warrants from 14/month to 4/month and increased client satisfaction scores from 3.8 to 4.6.
+
+Free no-show cost analysis based on your current client volume. 15 min to review?
+
+Best,
+`[Your Name]`
+
+---
+
+### 105. Corporate Counsel — Contract Review & Redlining
+**Subject:** AI contract reviewer that catches what your junior associates miss
+
+Hi `[Name]`,
+
+Your in-house team reviews 50+ contracts a month — NDAs, MSAs, SOWs, vendor agreements. Junior associates spend 60% of their time on first-pass redlines and still miss buried indemnification clauses and auto-renewal traps.
+
+I built an AI contract review agent for corporate legal departments that:
+- Analyzes any contract against your playbook in under 2 minutes
+- Flags non-standard terms: uncapped liability, auto-renewal, exclusivity, most-favored-nation, change-of-control
+- Generates a redlined version with proposed language from your approved playbook
+- Produces a one-page executive summary: key risks, deal-breakers, negotiation priorities
+
+For a mid-market company with 3 in-house attorneys, it reduced contract review cycle from 8 days to 1.5 days and caught 23 buried auto-renewal clauses worth `[$420K/yr]` in unbudgeted renewals.
+
+Free contract review audit — upload 3 of your most common agreements and see the gap. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 106. Immigration Law — Case Status & Client Updates
+**Subject:** AI client portal that answers 'where's my case?' without tying up your paralegals
+
+Hi `[Name]`,
+
+Your immigration clients call every week asking for case status updates. Each call takes 5–8 minutes of your paralegal's time, and there are 150+ active cases. That's 12+ hours a week on status updates — unbillable.
+
+I built an AI case status agent for immigration law firms that:
+- Syncs with USCIS case tracker, EOIR, and your practice management system
+- Gives clients a personalized portal or SMS line where they can ask "What's my case status?" in English or Spanish
+- Sends proactive updates when case status changes (biometrics scheduled, RFE issued, interview set)
+- Answers FAQ-level questions (filing fees, document requirements, processing times) without human involvement
+
+For a 4-attorney immigration firm with 400 active cases, it saved 14 paralegal hours/week and client satisfaction on "kept informed" went from 3.1 to 4.8.
+
+Free 30-day pilot — we'll set up the portal for your 10 most anxious clients. Want to try?
+
+Best,
+`[Your Name]`
+
+---
+
+### 107. Real Estate Law — Title Review & Closing Coordination
+**Subject:** AI title abstractor that reviews chain of title in 20 minutes instead of 6 hours
+
+Hi `[Name]`,
+
+Every real estate closing requires a title search. Your paralegals spend hours tracing a chain of title through county records, looking for liens, easements, and encumbrances. One missed judgment can turn a clean closing into a malpractice claim.
+
+I built an AI title review agent for real estate law practices that:
+- Pulls property records from county assessor databases, tax records, and recorder of deeds
+- Maps the full chain of title and flags gaps, breaks, and irregularities
+- Identifies liens (tax, judgment, mechanic's), easements, HOA covenants, and encroachments
+- Generates a preliminary title report with risk-rated findings in 20 minutes
+
+For a busy real estate practice closing 30 transactions/month, it reduced title review from 6 hours to 20 minutes per closing and caught 14 dormant judgments in the first month.
+
+Free title review audit — send us 3 recent closings and we'll compare the AI report against what your team found. Want to see?
+
+Best,
+`[Your Name]`
+
+---
+
+### 108. Litigation — Deposition Prep & Transcript Analysis
+**Subject:** AI that reviews 500-page deposition transcripts in 5 minutes
+
+Hi `[Name]`,
+
+Your litigators spend 15–20 hours prepping for every deposition — reading transcripts, identifying contradictions, mapping witness testimony against discovery responses. That's time they could be in court or meeting with clients.
+
+I built an AI deposition analyst for litigation firms that:
+- Ingests deposition transcripts (or video with automatic transcription) and identifies key testimony themes
+- Cross-references witness statements against prior testimony, discovery responses, and document production
+- Flags contradictions, inconsistencies, and admissions with timestamps and page/line references
+- Generates a cross-examination outline with suggested impeachment questions
+
+For a 10-attorney litigation firm handling 40 depositions/month, it cut prep time from 18 hours to 2 hours per deposition — freeing `[$1.4M/yr]` in attorney capacity.
+
+Free witness analysis — send us the last deposition transcript you worked on. We'll show you what the AI found in 5 minutes. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 109. Solo & Small Firm — Marketing & Lead Generation
+**Subject:** AI marketing agent that writes your firm's blog, social, and intake emails
+
+Hi `[Name]`,
+
+You're a solo practitioner or small firm — you don't have a marketing team. Your website hasn't been updated in 2 years, your blog is empty, and you're relying entirely on referrals. Potential clients are Googling "best `[practice area]` lawyer near me" and finding your competitors.
+
+I built an AI marketing agent specifically for solos and small firms that:
+- Analyzes your existing cases for the most common client questions and concerns
+- Writes SEO-optimized blog posts, practice area pages, and FAQ content in your voice
+- Generates a weekly LinkedIn post about recent wins and industry changes
+- Drafts intake email responses that convert more leads to consultations
+
+For a solo family law practitioner, it generated 12 blog posts and 8 LinkedIn posts per month — driving 3–5 new consultation requests per week worth `[$60K–$90K/yr]` in new business.
+
+Free content audit — we'll analyze your website and generate a 30-day content plan. Ready to get started?
+
+Best,
+`[Your Name]`
+
+---
+
+### 110. Billing & Collections — AR Management & Trust Accounting
+**Subject:** AI that cuts your accounts receivable days from 60 to 18
+
+Hi `[Name]`,
+
+You're carrying `[$50K–$200K]` in outstanding invoices. Your billing staff chases payments manually — printing statements, making phone calls, reconciling trust accounts. Every 30 days a bill goes unpaid, it costs you 8.5% in annualized revenue (at 10% cost of capital).
+
+I built an AI billing agent for law firms that:
+- Generates and sends invoices automatically based on time entries (integrates with Clio, MyCase, PracticePanther, QuickBooks)
+- Sends personalized payment reminders via email and text at Day 15, 30, 45, 60 with escalating urgency
+- Reconcilies trust accounts (IOLTA) against client ledgers and flags discrepancies in real time
+- Predicts which clients will become collection problems based on payment history patterns
+
+For a 15-attorney firm with `[$1.2M]` in annual billings, it reduced average AR days from 58 to 18 — freeing `[$175K]` in working capital — and cut billing staff hours from 40 hrs/week to 12 hrs/week.
+
+Free AR analysis — pull your last 90 days of billing and we'll show you the recovery opportunity. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
 ## BONUS: Template Usage Quick-Reference
 
 | Section | Best For | Send Window | Follow-up Cadence |
@@ -1857,6 +2079,7 @@ Best,
 || 71–80 v2.2 Automotive | Auto dealers, service centers, F&I | Mon–Wed mornings | Day 2, 5, 10 |
 || 81–90 v2.3 Home Services | HVAC, plumbing, electrical, landscaping, pest control, roofing | Tue–Thu mornings | Day 3, 7, 14, 21 |
 || 91–100 v2.4 Senior Care & Assisted Living | Skilled nursing, assisted living, memory care, home health, hospice | Tue–Thu mornings | Day 3, 7, 14 |
+|| 101–110 v2.5 Legal Services | Law firms, solo practitioners, personal injury, family law, estate planning, criminal defense, corporate counsel | Tue–Thu mornings | Day 3, 7, 14 |
 
 ---
 
@@ -1867,4 +2090,4 @@ Best,
 
 ---
 
-*Product Factory • Updated July 10, 2026 (v2.4) • $19 Suggested Retail (100 templates across 33 industries)*
+*Product Factory • Updated July 11, 2026 (v2.5) • $19 Suggested Retail (110 templates across 34 industries)*
