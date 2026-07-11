@@ -1,6 +1,6 @@
 # Cold Email Swipe File
-## 130 Proven Templates for AI Automation Services
-### $19 — Updated July 11, 2026 (v2.7 — Agriculture & Farming Added)
+## 140 Proven Templates for AI Automation Services
+### $19 — Updated July 11, 2026 (v2.8 — Franchises & Multi-Location Business Operations Added)
 
 ---
 
@@ -2528,6 +2528,236 @@ Free water budget analysis for your district — we'll model your current season
 Best,
 `[Your Name]`
 
+## FRANCHISES & MULTI-LOCATION BUSINESS OPERATIONS — Franchise Development, Multi-Unit Operators, Franchisee Recruitment & Multi-Location Ops (v2.8)
+
+### 131. Franchise Development — Lead Nurturing & Discovery Automation
+**Subject:** AI that nurtures 500+ franchise prospects simultaneously — and surfaces the 12 that are ready to buy
+
+Hi `[Name]`,
+
+Your franchise development team is spending 80% of their time on the wrong leads. You run Facebook ads, attend trade shows, and take discovery calls — but your CRM is full of 2-year-old inquiries that never got past "thinking about it." Every warm lead that goes cold is a missed `[$35K–$50K]` franchise fee.
+
+I built an AI franchise development agent that:
+
+- Scores every inbound inquiry against your ideal franchisee profile (liquid capital, industry experience, geography, timeline) — your team calls only prospects above your threshold
+- Automates a 12-touch nurture sequence personalized to each prospect's stage: awareness prospects get case studies, evaluation prospects get financial models, ready-to-buy prospects get a calendar link to the CEO
+- Re-engages the entire top-of-funnel every 90 days with a new angle — "We just opened 3 new territories in your region. Still interested?"
+- Generates a daily prioritization report: "Call these 2 prospects today (`[$250K]` combined cash) — they visited your franchise disclosure page 4 times in the last week."
+
+For a 150-unit franchise system, it compressed the average discovery-to-sale cycle from 9 months to 4.5 months and increased the lead-to-franchisee conversion rate from 2.1% to 5.8% — 18 additional franchise sales in the first year worth `[$720K]` in franchise fees.
+
+Works with FranConnect, ZeeFlow, and any CRM that exports lead data. Free 30-day pipeline audit — we'll show you every prospect ready to buy right now that you haven't called. Want to see your pipeline's hidden revenue?
+
+Best,
+`[Your Name]`
+
+---
+
+### 132. Multi-Unit Franchisee — Location Profit Optimization
+**Subject:** AI that benchmarks every one of your locations against each other — and tells you exactly which levers to pull
+
+Hi `[Name]`,
+
+You operate `[X]` franchise locations. Three are crushing it, four are treading water, and one is bleeding cash. Your regional managers send you spreadsheets, but by the time you spot the pattern — "Unit 7's food cost has been drifting for 6 months" — you've already lost `[$40K]` in margin.
+
+I built an AI multi-unit optimization agent that:
+
+- Ingests your POS, labor, inventory, and vendor data from every location daily — works with Toast, Aloha, Micros, Punchh, and any POS that generates a report
+- Benchmarks every store on 12 KPIs (labor %, food cost, ticket time, upsell rate, customer sentiment, turnover, comp sales, occupancy cost, utility $/sqft, warranty claims, local ad spend ROI, mystery shopper score)
+- Flags the single highest-impact lever per underperforming location: "Unit 7 — your food cost is 34.2% vs. system average of 30.1%. Root cause: portion drift on the chicken entree (6.2 oz vs. spec of 5.5 oz). Implement portion control — impact `[$18K/yr]` savings per unit."
+- Generates a weekly captain's call: bullet-point actions for every location, ranked by revenue impact — your managers spend 10 minutes reading instead of 2 hours building spreadsheets
+
+For a 22-unit QSR franchisee group, it identified `[$340K/yr]` in margin recovery across the portfolio — food cost alone dropped from 31.8% to 28.4%, adding `[$210K]` to the bottom line. The owner said it was like having a full-time CFO for each location.
+
+Free 30-day portfolio analysis — we'll run your last 12 months of store-level P&Ls through our benchmark engine and show you every dollar of hidden margin. Interested?
+
+Best,
+`[Your Name]`
+
+---
+
+### 133. Franchise Sales — Candidate Qualification & Pipeline Management
+**Subject:** AI sales agent that pre-qualifies franchise candidates — so your team only talks to people who can actually buy
+
+Hi `[Name]`,
+
+Your franchise sales team is taking 40-minute discovery calls with people who have `[$50K]` in liquid assets when your minimum is `[$250K]`. They're sending FDDs to tire-kickers who haven't even checked their credit. Every hour wasted on an unqualified prospect is an hour you didn't spend closing a real candidate. In a system selling 15 franchises/year at `[$40K]` each, that's `[$600K]` of pipeline at risk.
+
+I built an AI franchise sales qualification agent that:
+
+- Integrates with your website lead form and automatically screens every inbound on 8 criteria: liquid capital, net worth, credit score minimum, industry experience, geography, timeline, motivation (passive investor vs. hands-on operator), and franchise system fit score (based on psychometric profile matching)
+- Routes candidates into tracks: Qualified (→ sales team), Needs Education (→ automated nurture), Not Now (→ 6-month re-engagement queue), Not Qualified (→ soft rejection with alternative system recommendations)
+- Pre-fills every lead record in your CRM with income/asset verification links, credit authorization, and a 5-minute fit assessment — so when your sales rep calls, they already know if this person can write a check
+- Generates a daily pipeline report: "You have 7 qualified candidates ready for discovery calls. 3 have `[$500K+]` liquidity. 2 are previous franchisees looking for a second brand. Your top priority: John Smith in Phoenix — he sold his 3-unit operation last quarter and has `[$1.2M]` liquid."
+
+For a 200-unit home services franchise, the qualification agent increased sales team talk-time-to-close ratio from 22% to 74% and cut the average discovery-to-close cycle by 35%. The VP of Franchise Development said, "I don't remember what it felt like to take an unqualified call."
+
+Free qualification pipeline review — we'll run your last 90 days of inbound leads through our engine and show you how much time your team is wasting. Ready to see the numbers?
+
+Best,
+`[Your Name]`
+
+---
+
+### 134. Multi-Location Operations — Standardization & Audit Automation
+**Subject:** AI that audits every location's SOP compliance overnight — instead of quarterly in-person visits
+
+Hi `[Name]`,
+
+Your operations team does quarterly audits. By the time they find a problem — 'Unit 12 hasn't logged a daily temperature check in 3 weeks' — it's been going on for months. One health department citation costs `[$5K–$25K]`. One slip-and-fall lawsuit costs `[$50K–$500K]`. And the franchisee at that location has been cutting corners because they knew the audit was 90 days away.
+
+I built an AI operations compliance agent for multi-location businesses that:
+
+- Connects to your existing systems — POS, security cameras (with video analytics), temperature sensors, cleaning logs, customer feedback platforms, and your franchise operations manual
+- Audits every location's SOP compliance every night across 50+ checkpoints: opening/closing procedures, food safety temps, cleaning schedules, uniform compliance, customer greeting rates, wait times, upsell execution, cash handling, security door sweeps, and equipment maintenance
+- Flags violations in real time with photo/video evidence: 'Unit 8 — walk-in cooler temp was 45°F from 2:14 AM to 4:37 AM. Temperature log shows a check at 3:00 AM with no deviation noted. Possible manual override. Investigate immediately.'
+- Generates a weekly franchisee scorecard ranked by compliance percentage, with a prioritized action list for your ops team: 'This week, visit these 3 units. Unit 4 scored 91% (repeat high performer — recognition email sent). Unit 9 scored 67% (critical: 5 unchecked SOPs, 2 repeat violations). Unit 17 scored 43% (franchisee needs a performance improvement plan).'
+
+For a 90-unit fast-casual franchise system, it reduced critical health code violations by 84% in 6 months (from 18 citations to 3) and cut the ops team's audit time from 160 hours/month to 22 hours/month. The franchise advisory council voted to adopt the system across all units.
+
+Free 7-day pilot — we'll connect to one unit and show you every compliance gap running right now. Want to see your exposure before it becomes a citation?
+
+Best,
+`[Your Name]`
+
+---
+
+### 135. Franchise Marketing — Co-Op Campaign Coordination & ROAS Optimization
+**Subject:** AI that coordinates 50 franchisee co-op ad accounts — and doubles the collective ROAS
+
+Hi `[Name]`,
+
+Your franchise system's biggest marketing challenge isn't creative — it's coordination. You've got 50 franchisees running their own Facebook ads, 30 running Google Local Services, and 20 doing nothing because they don't know how. The national brand fund spends `[$2M/yr]` on TV and digital, but local ROAS varies from 1.2x to 8.4x depending on the franchisee. Every franchisee at the low end is burning their royalty margin on inefficient local ads.
+
+I built an AI franchise marketing co-op agent that:
+
+- Connects to every franchisee's ad accounts (Meta Business Suite, Google Ads, Local Services Ads, Yelp, Nextdoor) and aggregates performance into a single dashboard — your marketing director sees system-wide ROAS in real time
+- Identifies high-performing ad creative from top-quartile franchisees and automatically distributes it to underperforming locations with local-market modifications (different phone number, different offer, different local image)
+- Generates a weekly co-op playbook: '17 franchisees have not spent their `[$500/mo]` co-op allowance. Auto-created campaigns for them using top creative from units in similar markets. Estimated impact: `[$60K/mo]` in incremental local ad spend that was sitting on the table.'
+- Predicts the optimal co-op budget mix per location by market type: 'Unit 3 (urban, high competition): increase Local Services budget 40%, decrease FB prospecting 20%. Unit 14 (suburban, low competition): add Nextdoor campaigns with referral offer. Unit 22 (rural): redirect 100% of spend to Google Search — TV and social have negative ROAS in this DMA.'
+
+For a 130-location franchise system with a `[$1.5M/yr]` co-op fund, system-wide blended ROAS increased from 3.2x to 6.8x in 90 days. Franchisees in the bottom quartile saw their ROAS improve by an average of 340%. The marketing director said, 'I finally have visibility into what every franchisee is doing with our co-op dollars.'
+
+Free co-op efficiency analysis — we'll audit your last 90 days of franchisee ad spend and show you the gap between top and bottom performers. Want to see how much local ad budget you're leaving on the table?
+
+Best,
+`[Your Name]`
+
+---
+
+### 136. Franchisee Recruitment — Passive Candidate Re-Engagement
+**Subject:** AI that finds every qualified franchisee prospect who went dark — and brings them back into your pipeline
+
+Hi `[Name]`,
+
+Your franchise sales CRM is a graveyard. Over the last 3 years, `[X]` people inquired about your franchise and never bought. Some weren't ready then but are now. Some went with a competitor. Some got ghosted by your sales team during the great resignation staffing crunch. Every one of them represents a `[$35K–$50K]` franchise fee you left on the table.
+
+I built an AI franchisee re-engagement agent that:
+
+- Analyzes every inactive lead in your CRM and scores them by current-readiness signals: LinkedIn profile changes (new job? promoted? laid off?), company filings (sold their business?), social media activity (following franchise brands?), property records (recent commercial lease?), credit alerts (pre-approved for SBA loan?)
+- Segments the dormant database into tiers: Hot (active buying signals — call today), Warm (life stage alignment — nurture), Cold (no signals — 6-month cycle), and Lost (wrong profile — suppress)
+- Generates personalized re-engagement messages for every hot lead: 'Hi `[Name]`, I noticed you sold `[BusinessName]` last quarter. We've opened 12 new territories in `[Region]` since we last spoke. Our unit-level economics have improved — average store now does `[$1.4M]` in revenue with 18% EBITDA. Worth a 15-minute update call?'
+- Automates the outreach sequence (email, LinkedIn, phone call) and reports results to your sales team daily: '4 re-engaged prospects scheduled discovery calls this week. Combined estimated liquidity: `[$3.2M]`. Your next 3 franchise sales may already be in your CRM.'
+
+For a 180-unit franchise system, the re-engagement agent reactivated 22 dormant leads in 90 days — 9 of whom signed franchise agreements worth `[$405K]` in franchise fees. The VP of Development said, 'We spent years building new top-of-funnel when our next 10 franchisees were already in our database.'
+
+Free dormant pipeline audit — we'll analyze your CRM and tell you exactly how many ready-to-buy franchisees are sitting in your inactive leads right now. Want to see your hidden pipeline?
+
+Best,
+`[Your Name]`
+
+---
+
+### 137. Multi-Location Inventory — Cross-Store Rebalancing & Waste Reduction
+**Subject:** AI that moves inventory between your locations automatically — before anything expires or sits on a shelf
+
+Hi `[Name]`,
+
+You run `[X]` locations. Unit 3 has 40 cases of `[Product]` expiring in 2 weeks. Unit 8 is sold out and turning away customers asking for that exact product. Your managers don't talk to each other. By the time you discover the mismatch, `[$15K]` of product is written off and `[$8K]` of sales is lost. For a multi-location business with perishable inventory, this cycle repeats every week — costing `[$100K–$1M/yr]` depending on your scale.
+
+I built an AI cross-location inventory agent that:
+
+- Ingests real-time inventory data from every location's POS and WMS — works with Restaurant365, Crunchtime, BlueCart, MarketMan, and any inventory system that exports SKU-level data
+- Predicts demand per location per SKU with 7-day forward visibility using historical velocity, day-of-week, local events, weather, and promotion calendar
+- Generates daily transfer recommendations: 'Transfer 23 cases of `[Product]` from Unit 3 to Unit 8. Unit 3 has 21 days of inventory at current velocity. Unit 8 will stock out in 2 days. Estimated savings: avoid `[$1,150]` in spoilage + capture `[$2,800]` in missed sales.'
+- Flags SKUs approaching expiration across the portfolio and recommends markdown timing, menu specials, or donation picks: '14 cases of `[SeasonalItem]` expire in 5 days across 6 locations. Create a 'Last Call' special at these 6 stores. Expected yield: recover `[$840]` in COGS at 50% sell-through before expiration.'
+
+For a 40-unit fast-casual franchise group with an annual food cost of `[$28M]`, the inventory agent reduced waste by 37% (worth `[$420K/yr]`) and improved in-stock rates on top 20 SKUs from 82% to 96% (worth `[$180K/yr]` in recaptured sales). The CFO said, 'It's like having a supply chain director for every location — without the payroll.'
+
+Free waste analysis — we'll pull your last 3 months of inventory data and show you every dollar of avoidable spoilage and missed cross-store transfer opportunity. Ready to see what you're throwing away?
+
+Best,
+`[Your Name]`
+
+---
+
+### 138. Franchise Training — Onboarding & Compliance Tracking Automation
+**Subject:** AI training agent that gets every new franchisee to opening day in 30 days — not 90
+
+Hi `[Name]`,
+
+Your franchise onboarding process is a stack of PDFs, Zoom recordings, and checklists that your training director emails to new franchisees. Some read them, some don't, and nobody knows which until the grand opening when the franchisee asks, 'Wait, how do I run payroll?' Every week of delayed opening costs your franchisee `[$8K–$15K]` in lost revenue and unpaid rent — and costs you deferred royalty income.
+
+I built an AI franchise training and onboarding agent that:
+
+- Ingests your entire training manual, video library, SOP documents, and compliance checklists into a searchable knowledge base that new franchisees can query 24/7: 'How do I set up my third-party delivery tablet?' → Answer with screenshot, video link, and a 3-step checklist
+- Creates a personalized day-by-day onboarding curriculum for each new franchisee based on their background: experienced restaurant operators skip the kitchen basics module; first-time business owners get extended modules on payroll tax, P&L management, and vendor negotiation
+- Tracks every module completion, quiz score, and milestone — and flags franchisees falling behind before it delays their opening: 'Unit 17 is 40% through onboarding at day 21. Target is 65%. Delays: hasn't completed ServSafe certification (blocker), hasn't watched the labor scheduling video (advisory). Automated reminder sent. Training director notified.'
+- Generates a weekly franchise readiness scorecard for your development team: '4 franchisees on track for scheduled openings. 2 at risk (Unit 17 — 3 days behind on vendor setup; Unit 22 — construction contractor is 2 weeks late, recommend rescheduling grand opening). 0 critical.'
+
+For a 75-unit franchise system expanding at 20 new stores/year, the AI training agent reduced average onboarding time from 72 days to 38 days. Franchisees reported 42% higher 'ready to open' confidence scores. The training director's email volume dropped by 70% — franchisees got answers from the agent instead of emailing her.
+
+Free onboarding audit — we'll review your current training materials and turnaround times, then show you how many days we can cut from your franchisee onboarding cycle. Want to open stores faster?
+
+Best,
+`[Your Name]`
+
+---
+
+### 139. Multi-Location Staffing — Shift Optimization & Labor Forecasting
+**Subject:** AI that predicts exactly how many staff each location needs — down to the 15-minute interval — with 94% accuracy
+
+Hi `[Name]`,
+
+Your multi-location business has two problems at the same time: Unit 4 is overstaffed by 3 people on Tuesday afternoons (costing you `[$900/week]` in unnecessary labor), and Unit 7 is understaffed on Friday nights (costing you `[$3,000/week]` in lost sales because tickets take 8 minutes instead of 4). Your managers write the schedule 2 weeks out based on gut feel and last year's calendar — and they're wrong 30% of the time.
+
+I built an AI labor optimization agent for multi-location operations that:
+
+- Ingests your POS transaction data, weather forecasts, local event calendars, historical sales patterns, and payroll data from every location — works with 7shifts, Jolt, Schedulefly, Deputy, When I Work, and any timeclock that has an API
+- Generates a location-specific, 15-minute-interval labor forecast 14 days out: 'Unit 4 — Tuesday Feb 14: forecast 212 transactions, `[$4,200]` sales. Staffing required: 3 front-of-house, 2 back-of-house, 1 manager. Current schedule has 5 front-of-house, 3 back-of-house, 2 managers. Overage cost: `[$780]`. Recommend reducing front-of-house by 2, back-of-house by 1, manager by 1.'
+- Auto-suggests shift swaps and cross-location borrowing when one unit is slammed and the neighboring unit is slow: 'Unit 7 needs 2 extra bodies Friday 6–10 PM. Unit 4 is 2 people overstaffed same window. Suggest loaning `[EmployeeA]` and `[EmployeeB]` to Unit 7 for Friday dinner.'
+- Tracks labor cost as a percentage of sales in real time per location and alerts when any unit goes above threshold: 'Unit 11 — labor percentage just hit 38% (target: 28%). Root cause: sales 22% below forecast due to unexpected road construction in front of store. Recommend cutting 1 closing shift effective immediately.'
+
+For a 35-unit pizza franchise group doing `[$45M/yr]` in system sales, the labor agent reduced blended labor cost from 32.4% to 26.8% — worth `[$2.5M/yr]` to the bottom line. Overtime spend dropped 62% and the HR director reported fewer last-minute call-offs because shifts were correctly sized and staff weren't burned out from being over-scheduled on slow days.
+
+Free labor audit — we'll analyze your last 90 days of sales and labor data across all locations and show you exactly how much you're overpaying for poorly aligned schedules. Want to see the numbers?
+
+Best,
+`[Your Name]`
+
+---
+
+### 140. Franchise Exit — Valuation, Succession & M&A Preparation
+**Subject:** AI that calculates exactly what your franchise system is worth — and identifies the 3 buyers most likely to pay a premium
+
+Hi `[Name]`,
+
+You've built a franchise system with `[X]` units doing `[$Y]` in system sales. You're thinking about an exit — private equity, a strategic buyer, or an internal succession to your management team. But you have no idea what your business is actually worth. EBITDA multiples in franchising range from 4x to 12x depending on unit economics, royalty stream quality, territory density, and system maturity. Without a defensible valuation, you'll either leave millions on the table or scare off buyers with an unreasonable ask.
+
+I built an AI franchise exit planning agent that:
+
+- Analyzes your entire franchise system across 22 value drivers: royalty revenue quality (% recurring vs. one-time), same-store sales trend, unit-level EBITDA margins, franchisee tenure/attrition rate, territory saturation, brand awareness proxies (search volume, social following, review scores), legal/compliance history, technology/IP moat, and management team depth
+- Generates a defensible valuation range with comps from similar franchise systems sold in the last 3 years: 'Your system's baseline valuation is `[$8.2M–$11.5M]` based on `[X]` adjusted EBITDA × 6.2–8.7x multiple. However, your same-store sales growth of 8.3% and franchisee attrition below 3% suggest a premium of 15–20%. Recommended ask: `[$9.5M–$13.8M]`.'
+- Identifies the most likely acquirers and scores them by strategic fit and ability to pay: 'Top buyer pool: (1) Private Equity — 3 PE firms actively acquiring in your segment with fund sizes `[$200M–$500M]`. (2) Strategic — 2 competitor systems with geographic gaps your territory fills. (3) Your management team — they have operational depth but will need seller financing or an ESOP structure.'
+- Generates a 12-month exit preparation playbook: 'To maximize value, complete these 4 actions before engaging an investment banker: (a) Systematize your franchisee recruiting process. (b) Implement location-level benchmark reporting. (c) Consolidate all franchisee data into a single dashboard. (d) Resolve the 3 pending legal matters. Estimated value impact of these actions: `[$1.5M–$3.2M]` increase in valuation.'
+
+For a 92-unit franchise system in the quick-service segment, the exit agent identified that the system was undervalued by management's internal estimate of `[$7.2M]`. After following the prep playbook for 8 months, the system sold to a mid-market PE firm at 9.2x adjusted EBITDA — `[$16.8M]` — versus the initial 'gut feel' estimate of `[$10M]`. The founder said, 'I almost sold for 40% less than what it was worth.'
+
+Free exit readiness scorecard — we'll analyze your system against 22 value drivers and give you a 1–100 readiness score plus a preliminary valuation range. No commitment, no pitch. Want to know what your franchise is actually worth?
+
+Best,
+`[Your Name]`
+
 ---
 
 ## BONUS: Template Usage Quick-Reference
@@ -2548,6 +2778,7 @@ Best,
 ||| 101–110 v2.6 Legal Services | Law firms, solo practitioners, personal injury, family law, estate planning, criminal defense, corporate counsel | Tue–Thu mornings | Day 3, 7, 14 |
 ||| 111–120 v2.6 Mental Health, Therapy & Counseling | Private practices, teletherapy, treatment centers, behavioral health | Tue–Thu mornings | Day 3, 7, 14 |
 ||| 121–130 v2.7 Agriculture & Farming | Crop farms, livestock, agri-retail, equipment, processing, vineyards | Tue–Thu mornings | Day 3, 7, 14 |
+||| 131–140 v2.8 Franchises & Multi-Location Ops | Franchise development, multi-unit operators, franchisee recruitment, multi-location ops | Tue–Thu mornings | Day 3, 7, 14 |
 
 ---
 
@@ -2558,4 +2789,4 @@ Best,
 
 ---
 
-*Product Factory • Updated July 11, 2026 (v2.6) • $19 Suggested Retail (120 templates across 35 industries)*
+*Product Factory • Updated July 11, 2026 (v2.8) • $19 Suggested Retail (140 templates across 37 industries)*

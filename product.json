@@ -1,15 +1,15 @@
 {
   "name": "Cold Email Swipe File PRO",
-  "version": "2.7",
+  "version": "2.8",
   "updated": "2026-07-11",
-  "templates": 130,
-  "industries": 36,
-  "new_in_v2_7": "Agriculture & Farming industry (Crop Farms, Livestock Operations, Agri-Retail, Farm Equipment Dealerships, Food Processing, Vertical Farms, Vineyards, Organic Farming, Ag Co-ops, Irrigation Districts) — 10 new templates covering Precision Ag & Field Monitoring, Herd Health & Feeding Optimization, Agri-Retail Reorder Automation, Farm Equipment Predictive Maintenance, Food Processing QC & Yield, CEA Climate/Lighting ML, Vineyard Harvest Timing & Tasting Room CRM, Organic Certification Compliance, Co-op Grain Marketing, and Irrigation District Water Management",
+  "templates": 140,
+  "industries": 37,
+  "new_in_v2_8": "Franchises & Multi-Location Business Operations industry (Franchise Development, Multi-Unit Franchisee Profit Optimization, Franchise Sales Candidate Qualification, Multi-Location SOP Audit, Co-Op Marketing Campaign Coordination, Franchisee Candidate Re-Engagement, Cross-Store Inventory Rebalancing, Franchise Training/Onboarding, Multi-Location Labor Forecasting, Franchise Exit/Valuation) — 10 new templates covering Lead Nurturing & Discovery Automation, Location Profit Optimization, Candidate Qualification & Pipeline Management, SOP Compliance Audit Automation, Co-Op Marketing ROAS Optimization, Passive Candidate Re-Engagement, Cross-Store Inventory Rebalancing, Onboarding & Compliance Tracking, Shift Optimization & Labor Forecasting, and Valuation/Succession/M&A Preparation",
   "price": 19,
   "bundle_price": 37,
   "landing_page": "https://tennie321.github.io/cold-email-swipe-file-pro/",
   "repo": "tennie321/cold-email-swipe-file-pro",
-  "description": "130 battle-tested cold email templates across 36 industries for AI automation agencies. v2.7 adds 10 Agriculture & Farming industry templates.",
+  "description": "140 battle-tested cold email templates across 37 industries for AI automation agencies. v2.8 adds 10 Franchises & Multi-Location Business Operations templates.",
   "top_converters": [
     {"template": 41, "name": "The Audit Offer", "reply_rate": "9.2%"},
     {"template": 1, "name": "Problem-Aware Prospect", "reply_rate": "8.7%"},
@@ -29,10 +29,11 @@
     "v2_4_senior_care": "Templates 91-100",
     "v2_5_legal_services": "Templates 101-110",
     "v2_6_mental_health": "Templates 111-120",
-    "v2_7_agriculture": "Templates 121-130"
+    "v2_7_agriculture": "Templates 121-130",
+    "v2_8_franchises": "Templates 131-140"
   },
   "round": 1,
   "action": "product_build",
   "round_option": "a",
-  "build_type": "Add 10 templates — new industry (Agriculture & Farming: Crop Farms, Livestock Operations, Agri-Retail, Farm Equipment Dealerships, Food Processing, Vertical Farms, Vineyards, Organic Farming, Agricultural Co-ops, Irrigation Districts)"
+  "build_type": "Add 10 templates — new industry (Franchises & Multi-Location Business Operations: Franchise Development, Multi-Unit Franchisee, Franchise Sales, Multi-Location Ops, Co-Op Marketing, Franchisee Recruiting, Inventory, Training, Staffing, Exit)"
 }
