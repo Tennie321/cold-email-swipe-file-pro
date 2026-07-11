@@ -1,6 +1,6 @@
 # Cold Email Swipe File
-## 100 Proven Templates for AI Automation Services
-### $19 — Updated July 11, 2026 (v2.5 — Legal Services Added)
+## 130 Proven Templates for AI Automation Services
+### $19 — Updated July 11, 2026 (v2.7 — Agriculture & Farming Added)
 
 ---
 
@@ -2064,6 +2064,472 @@ Best,
 
 ---
 
+
+## MENTAL HEALTH, THERAPY & COUNSELING — Private Practices, Teletherapy, Behavioral Health & Treatment Centers (v2.6)
+
+### 111. Private Practice Therapy — Intake & Scheduling Automation
+**Subject:** AI intake agent that books your first session in 90 seconds — not 3 days
+
+Hi `[Name]`,
+
+Your potential clients are Googling "therapist near me" at 10pm on a Tuesday. When they call your office, they get voicemail. When they fill out your contact form, they wait 48 hours for a reply. By the time you call back, they've booked with someone else.
+
+I built an AI intake agent for therapy practices that:
+- Answers every inbound call and web chat 24/7 in a warm, empathetic voice
+- Screens for clinical fit (insurance, presenting issue, availability preferences)
+- Books the first appointment directly into your calendar with all intake forms pre-filled
+- Sends a personalized welcome text with the therapist's bio, photo, and what to expect
+
+For a 6-clinician group practice in `[City]`, it cut new client intake cycle from 3.2 days to 3 hours and increased initial appointments booked by 58%. First-month no-show rate dropped from 22% to 9% because clients received automated reminders with thoughtful pre-session prep content.
+
+HIPAA-compliant. Works with SimplePractice, TheraNest, TherapyNotes, and Practice Fusion.
+
+Free intake audit — we'll mystery-call your current intake line and send you the scorecard. Ready to see the gap?
+
+Best,
+`[Your Name]`
+
+---
+
+### 112. Teletherapy Platform — Patient Engagement & Retention
+**Subject:** AI engagement agent that keeps patients between sessions — and cuts churn by 34%
+
+Hi `[Name]`,
+
+Your teletherapy platform loses 40% of new patients within 6 weeks. They book 3 sessions, then disappear. The issue isn't the therapy — it's the gap between sessions where the patient feels unsupported and forgets why they started.
+
+I built an AI patient engagement agent for teletherapy platforms that:
+- Sends personalized micro-content between sessions (journaling prompts, CBT exercises, coping strategies) based on the patient's treatment plan
+- Tracks mood and symptom check-ins via text, flagging deterioration patterns to the therapist in real time
+- Automates session reminders, rescheduling, and follow-up outreach — reducing admin burden on your clinical team
+- Identifies at-risk patients showing early disengagement signals (missed check-ins, delayed scheduling) and triggers retention interventions
+
+For a mid-size teletherapy platform with 3,200 active patients, it improved 60-day retention from 58% to 79% and increased average sessions per patient from 4.2 to 7.8 — worth `[$1.4M/yr]` in incremental subscription revenue.
+
+Free engagement audit — we'll analyze your current retention cohorts and identify the biggest drop-off points. Interested?
+
+Best,
+`[Your Name]`
+
+---
+
+### 113. Addiction Treatment Centers — Admissions & Insurance Verification
+**Subject:** AI admissions agent that verifies insurance and admits patients in 2 hours instead of 2 days
+
+Hi `[Name]`,
+
+Every hour a person waits for detox admission is an hour they could change their mind. Your admissions team spends 4–6 hours per intake on insurance verification, medical clearance coordination, and paperwork. During that window, you lose 35% of potential admissions to competing facilities that move faster.
+
+I built an AI admissions agent for addiction treatment centers that:
+- Verifies insurance benefits in real time across 1,200+ payers (including Medicare, Medicaid, and commercial plans)
+- Coordinates with medical staff for clearance by auto-generating intake summaries with clinical flags
+- Handles financial counseling — explains out-of-pocket costs, sets up payment plans, and collects deposits
+- Sends the incoming patient and their family a streamlined arrival checklist with what to bring, what to expect, and visiting hours
+
+For a 40-bed residential treatment center, it cut admit cycle from 2.1 days to 3.5 hours. Admissions volume increased 47% because fewer leads fell through the intake black hole — worth `[$2.8M/yr]` in incremental bed revenue.
+
+CARF/Joint Commission compliant. Works with Kipu, BestNotes, and Cerner.
+
+Free admissions funnel audit — we'll track your last 50 inquiries and show you exactly where you're losing patients. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 114. Psychiatric Practices — Medication Management & Follow-Up
+**Subject:** AI med management agent that handles refills, prior auths, and follow-ups — your providers focus on patients
+
+Hi `[Name]`,
+
+Your psychiatric providers spend 30% of their day on non-clinical work: prior authorization paperwork, refill requests, lab result follow-up, and scheduling. Every hour of admin is an hour they can't bill for patient care.
+
+I built an AI medication management agent for psychiatric practices that:
+- Triages and processes refill requests — checks last visit date, medication history, and protocol compliance before routing to the provider for approval
+- Automates prior authorization submissions with diagnosis codes, medication history, and supporting documentation pre-filled
+- Sends personalized medication reminders and side effect check-ins between visits, flagging concerning patterns to the provider
+- Follows up on overdue lab work (therapeutic drug monitoring, metabolic panels) with automated patient outreach
+
+For a 5-provider psychiatry practice with 2,400 active patients, it cut prior auth turnaround from 6 days to 6 hours and freed 18 provider hours per week for clinical care — adding `[$240K/yr]` in incremental billable capacity.
+
+Free workflow audit — we'll time-study your current prior auth and refill processes. 15 min to review?
+
+Best,
+`[Your Name]`
+
+---
+
+### 115. Eating Disorder & Wellness Centers — Multi-Disciplinary Care Coordination
+**Subject:** AI care coordinator that syncs therapists, dietitians, and physicians — no more dropped balls
+
+Hi `[Name]`,
+
+Your patients see 3+ providers: a therapist, a dietitian, a primary care physician, and possibly a psychiatrist. Each provider documents in their own system. No one has the full picture. Treatment plans conflict. Lab results get missed. Patients fall through the cracks.
+
+I built an AI care coordination agent for eating disorder and wellness centers that:
+- Ingests notes from all provider systems and creates a unified treatment timeline per patient
+- Flags treatment conflicts (e.g., dietary recommendations contradicting therapy goals) and alerts the care team
+- Tracks key clinical milestones: weight restoration targets, meal compliance, therapy attendance, lab frequency
+- Generates a weekly care coordination summary for the treatment team with flags, wins, and recommended adjustments
+
+For a 12-bed residential eating disorder center with 8 outpatient providers, it reduced care coordination meetings from 4 hours/week to 30 minutes and caught 17 treatment conflicts in the first month that would have delayed recovery.
+
+Free care coordination audit — we'll map your current data flow and identify every handoff gap. Ready to see the gaps?
+
+Best,
+`[Your Name]`
+
+---
+
+### 116. Employee Assistance Programs (EAP) — Corporate Outreach
+**Subject:** AI that helps HR directors actually use their EAP — utilization goes from 5% to 41%
+
+Hi `[Name]`,
+
+Your company pays `[$35–$55/employee/year]` for an Employee Assistance Program, but only 3–8% of employees ever use it. The problem isn't the benefit — it's that employees don't know about it, don't know how to access it, or don't trust it.
+
+I built an AI EAP engagement agent that:
+- Meets employees where they are — Slack, Teams, text, or email — and explains EAP benefits in a private, stigma-free conversation
+- Triages the employee's concern (counseling, financial stress, legal issue, substance use) and matches them to the right resource
+- Handles the full scheduling workflow — books the first 3 sessions automatically with the employee's preferred provider type
+- Reports anonymized utilization data to HR: which concerns are trending, average time to first session, satisfaction scores
+
+For a 5,000-employee company, it lifted EAP utilization from 4.7% to 32% in 6 months. The HR team reported a 22% reduction in mental-health-related absenteeism and an estimated `[$2.1M/yr]` in reduced productivity loss.
+
+Free EAP utilization analysis — we'll benchmark your current usage against peers and model the ROI of engagement. Want to see your numbers?
+
+Best,
+`[Your Name]`
+
+---
+
+### 117. Mental Health Clinics — Referral Intake & Provider Matching
+**Subject:** AI that matches every referral to the right clinician in under 5 minutes — no more 3-week wait lists
+
+Hi `[Name]`,
+
+Your clinic's wait list is growing because intake coordinators spend hours manually matching patients to clinicians. They have to check insurance, specialty, availability, location, language, and patient preference — all while the phone keeps ringing. Your new patients wait 2–3 weeks for a first appointment. 60% never show up.
+
+I built an AI referral intake agent for community mental health clinics that:
+- Ingests the referral (from primary care, schools, courts, or self-referral) and extracts key matching criteria
+- Cross-references against your clinician directory — specialty, insurance panels, languages, availability, therapeutic modalities
+- Generates a ranked match list with estimated wait times and suggested alternatives if the top match has no openings
+- Sends the patient an automated intake confirmation with clinician bio, directions, and pre-visit questionnaire
+
+For a community mental health center with 40 clinicians serving 5,000+ patients, it cut referral-to-first-appointment from 18 days to 2.4 days. Show rate improved from 52% to 79% because patients were seen before motivation faded.
+
+Free referral pipeline audit — we'll analyze your current intake data and show you where patients are getting stuck. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 118. Behavioral Health Units — Discharge Planning & Aftercare
+**Subject:** AI discharge planner that sets up every patient for success — and cuts 30-day readmissions by 42%
+
+Hi `[Name]`,
+
+Your behavioral health unit discharges patients with a photocopied list of community providers and a "good luck." Within 30 days, 18–25% are readmitted. The discharge planning process is fragmented — social workers, nurses, and therapists each document in their own silo, and the patient leaves without a real aftercare plan.
+
+I built an AI discharge planning agent for behavioral health units that:
+- Aggregates the patient's full stay data — diagnosis, treatment response, medication changes, therapy participation — into a structured discharge summary
+- Generates a personalized aftercare plan with concrete next steps: scheduled outpatient follow-up, medication refill instructions, crisis hotline, peer support group meeting times
+- Coordinates with community providers by auto-faxing referrals and sharing relevant clinical data (with consent)
+- Sends the patient 7, 14, and 30-day automated check-ins to confirm aftercare attendance and flag decompensation signals
+
+For a 24-bed psychiatric unit at a community hospital, it cut 30-day all-cause readmissions from 21% to 12%. Average length-of-stay decreased by 1.2 days because discharge planning started on Day 1 instead of Day 5 — saving `[$1.1M/yr]` in avoidable readmission penalties and bed-days.
+
+Joint Commission compliant. Works with Epic, Cerner, Meditech. Free discharge process audit — 30-min call to show your current readmission data alongside projected improvement?
+
+Best,
+`[Your Name]`
+
+---
+
+### 119. Child & Adolescent Therapy — Parent Communication & Progress Tracking
+**Subject:** AI that keeps parents informed without adding admin to your therapists' plates
+
+Hi `[Name]`,
+
+Parents of child and adolescent clients want updates: "Is my child making progress?" "What skills are they working on?" "Do you have any concerns?" Your therapists want to focus on the client, not write weekly update emails. So neither side gets what they need.
+
+I built an AI parent communication agent for child/adolescent therapy practices that:
+- Analyzes de-identified session notes and generates a plain-language progress summary parents can understand
+- Sends weekly or bi-weekly updates via email or portal — highlights a skill practiced, an insight gained, or a homework assignment
+- Flags clinically relevant concerns (self-harm ideation, school avoidance, family conflict escalation) for direct therapist outreach
+- Provides a secure Q&A channel where parents can ask non-urgent questions and the agent answers based on the treatment plan
+
+For a 10-therapist child & adolescent practice, it eliminated 14 hours/week of parent update emails. Parent satisfaction scores on "kept informed" went from 3.2/5 to 4.8/5. Therapist satisfaction went up because they stopped resenting admin work after sessions.
+
+Free parent communication audit — we'll survey your current families and identify the biggest communication gaps. Want to see what they're actually thinking?
+
+Best,
+`[Your Name]`
+
+---
+
+### 120. Group Practice — Provider Credentialing & Insurance Panel Management
+**Subject:** AI credentialing agent that gets your new providers on insurance panels in 30 days instead of 120
+
+Hi `[Name]`,
+
+Your group practice hires a new therapist. Then you wait 90–120 days for them to get credentialed with insurance panels. In that window, you're paying their salary with zero billable hours. At `[$80K/yr]` per clinician, that's `[$20K–$26K]` in lost revenue per provider during the credentialing gap.
+
+I built an AI credentialing agent for mental health group practices that:
+- Generates complete CAQH applications and insurance panel enrollment packets pre-populated from provider data
+- Tracks every application across 20+ major payers (Aetna, Cigna, BCBS, United, Optum, Medicare, Medicaid) with automated status checks
+- Flags stalled applications and generates follow-up correspondence to payer credentialing departments
+- Predicts which payers will approve fastest based on historical panel-specific cycle times, so you prioritize applications strategically
+
+For a 15-provider group practice adding 4 new therapists per quarter, it cut credentialing cycle from 114 days to 32 days average — recovering `[$96K/yr]` in otherwise-lost billable capacity. Payer mix optimization (batching applications to fast-approving panels first) added another `[$42K/yr]` by getting providers on high-reimbursement panels sooner.
+
+Free credentialing cycle audit — we'll analyze your current average time-to-bill for recent hires. 15-min call to review the report?
+
+Best,
+`[Your Name]`
+
+---
+## AGRICULTURE & FARMING — Crop Farms, Livestock, Agri-Retail, Food Processing, Vertical Farming, Vineyards, Organic Farming, Co-ops & Irrigation (v2.7)
+
+### 121. Crop Farming — Precision Ag & Field Monitoring AI
+**Subject:** AI that reads your soil sensors and tells you exactly when to plant, spray, and harvest
+
+Hi `[Name]`,
+
+You're flying drones, running soil sensors, pulling satellite imagery — and someone on your team is still stitching that data together in spreadsheets. By the time you get a report, the window for action has passed.
+
+I built an AI precision ag agent that:
+
+- Ingests your entire data stack in real time: NDVI, soil moisture, weather forecasts, pest trap counts, yield maps
+- Generates daily prescription maps — variable-rate seeding, fertigation, and spray recommendations at the sub-field level
+- Flags anomaly zones (nutrient deficiency, disease pressure, equipment drift) within 24 hours, not 7 days
+- Sends your agronomist a morning brief with the top 3 actions for the day: "Field 4 needs fungicide by Thursday. Field 12 is ready to harvest. Field 7 has a tile drain blockage."
+
+For a 12,000-acre row crop operation in `[State]`, it reduced nitrogen application by 18% while yield actually went up 5%. The agronomy team cut data processing time from 15 hours/week to 40 minutes.
+
+Works with Climate FieldView, John Deere Operations Center, AgLeader, Trimble, and Granular. The agent lives on top of whatever you already use — no rip-and-replace.
+
+Free 30-day pilot on one crop type (corn, beans, wheat, cotton — your choice). Want to see what it surfaces from your current season's data?
+
+Best,
+`[Your Name]`
+
+---
+
+### 122. Livestock Operations — Herd Health & Feeding Optimization
+**Subject:** AI that predicts which animals are getting sick 3 days before symptoms appear
+
+Hi `[Name]`,
+
+Every day a sick animal goes undetected, it costs you in treatment, weight loss, and mortality. Your team walks the pens, but by the time an animal 'looks off,' you've already lost 48–72 hours of intervention window. In a 5,000-head feedlot, that's `[$X/yr]` in preventable losses.
+
+I built an AI herd health agent for livestock operations that:
+
+- Ingests data from your ear tags, weigh scales, water consumption sensors, and feed intake monitors
+- Flags animals with subclinical illness 48–72 hours before visible symptoms — based on eating behavior shifts, rumination drops, and drinking pattern changes
+- Recommends pen moves, treatment protocols, and marketing timing based on finish-weight trajectory
+- Generates a daily treatment list sorted by urgency — your crew spends 20 minutes on the iPad instead of 2 hours walking every pen
+
+For a 15,000-head feedlot, it reduced mortality by 0.4% (worth `[$240K/yr]` in that operation alone) and improved average daily gain by 0.15 lbs — worth another `[$3.80/head]` at slaughter.
+
+Works with Allflex, CattleScale, Myostan, and Performance Beef. Free 60-day pilot on one feedlot pen group. Want to see which animals in your current inventory are at risk right now?
+
+Best,
+`[Your Name]`
+
+---
+
+### 123. Agri-Retail / Farm Supply — Recurring Reorder & Loyalty Automation
+**Subject:** AI that predicts what each farmer will need next season — before they call a competitor
+
+Hi `[Name]`,
+
+Your ag-retail business loses 25–35% of customers every year — not to competitor pricing, but to low-touch sales. Farmers buy from whoever answers first during spring rush, and your inside sales team can't proactively call 2,000 growers. Every lost account is `[$5K–$50K/yr]` in seed, chemical, and fertilizer revenue.
+
+I built an AI grower retention agent for ag-retail and co-ops that:
+
+- Analyzes every grower's field history, input purchases, and precision ag data to predict next-season needs at the product level
+- Sends personalized reorder reminders and seasonal recommendations via text or email — "Your field-by-field prescription for `[Crop]` is ready. Your pre-buy discount expires in 14 days."
+- Flags growers showing early churn signals (delayed purchases, reduced volume, cross-shopping competitors) for your sales team to call
+- Generates a daily prioritization report: "Today, call these 12 growers — combined `[$340K]` in at-risk A/R"
+
+For a retail co-op with 3,200 active grower accounts, it increased pre-season order capture by 22% and reduced account churn from 28% to 11% — worth `[$4.2M/yr]` in retained and earlier-captured revenue.
+
+Free grower retention analysis for your territory — we'll calculate your current churn rate and the recovery opportunity. Want to see the numbers?
+
+Best,
+`[Your Name]`
+
+---
+
+### 124. Farm Equipment Dealership — Parts, Service & Precision Tuning
+**Subject:** AI that predicts every equipment failure before it leaves a $15K/day harvest window
+
+Hi `[Name]`,
+
+Your dealership sells $500K combines and $300K tractors. When one goes down during a 14-day harvest window, your customer loses `[$15K–$25K/day]` in lost yield. Your service department is reactive — parts aren't stocked, techs aren't scheduled, and the farmer spends 3 days waiting for a diagnostic.
+
+I built an AI equipment uptime agent for farm equipment dealerships that:
+
+- Ingests telematics data from every machine you've sold (engine hours, fault codes, vibration sensors, DPF status) — works with JD Link, AFS Connect, and CLS
+- Predicts component failures 150–200 hours before they happen: hydraulics, belts, bearings, DEF systems, GPS receivers
+- Auto-generates a proactive service ticket with parts list, estimated labor hours, and suggested window — your team calls the farmer to book service before the breakdown
+- Prioritizes by harvest window: a combine down in October gets same-day response; a tractor with 200 hours before its next planting pass can wait a week
+
+For a 5-location dealership group, it reduced emergency service calls by 63%, increased parts counter sales by 28% (because parts were stocked proactively instead of overnighted), and customer satisfaction on "equipment uptime" went from 3.1/5 to 4.6/5.
+
+Free telematics analysis — pull the last 30 days of fault codes from your connected fleet and we'll show you every machine that will fail in the next 30 days. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 125. Food Processing — Quality Control Yield & Waste Reduction
+**Subject:** AI that inspects every item on your line in real-time — and cuts waste by 34%
+
+Hi `[Name]`,
+
+Your QC team samples 2–5% of product. That means 95% of what goes out the door is uninspected. When a bad batch slips through, you lose a customer contract worth `[$500K–$5M]`. When you reject a good batch, you write off thousands of pounds of yield. Both happen every week.
+
+I built an AI quality control agent for food processors that:
+
+- Analyzes camera feeds, spectrometer readings, and sensor data from your existing line equipment in real time — no hardware retrofit needed
+- Detects foreign objects, discoloration, size deviations, fill-level errors, and seal integrity issues at line speed (200+ items/minute)
+- Grades every item on a quality score and flags only the outliers for manual QC review — your team stops inspecting the 95% that's fine and catches every defect in the 5% that's not
+- Generates daily yield reports with root cause: "Line 3 had 2.4% trim loss above baseline due to dull blades — schedule sharpening tonight"
+
+For a vegetable processing plant running 40M lbs/year, it reduced customer quality rejections by 87% (saving `[$1.7M]` in credits and freight) and increased yield by 6.2% (worth `[$1.2M/yr]` in additional saleable product).
+
+Works with Key Technology, Satake, Bühler, and any line with a camera or sensor output. Free 7-day pilot on one product line. Want to see how much waste is running through your plant right now?
+
+Best,
+`[Your Name]`
+
+---
+
+### 126. Vertical Farming & CEA — Climate & Lighting ML Optimization
+**Subject:** AI that tweaks your LED spectrum and HVAC every 15 minutes for maximum yield per watt
+
+Hi `[Name]`,
+
+Your vertical farm's biggest cost is energy — 30–50% of OpEx. Your environmental controller runs on fixed setpoints that don't account for real-time plant response. You're overspending on electricity and leaving yield on the table because your climate recipe was written for a different variety, different week, different harvest goal.
+
+I built an AI climate optimization agent for CEA operations that:
+
+- Learns your crop's real-time response curves — VPD, DLI, CO2 enrichment, root zone temperature, airflow — and adjusts every 15 minutes to stay in the optimal zone
+- Balances yield, quality, and energy cost: you can set the target (maximize grams/sqft, minimize kWh/lb, or hit a specific Brix/size/color target) and the agent finds the exact recipe
+- Integrates with Argus, Priva, Wadsworth, and any controller that exposes a REST API or BACnet — no hardware replacement
+- Generates a weekly "what we learned" report: this week's optimal recipe, energy savings achieved, and a comparison of actual vs. predicted PPF (photosynthetic photon flux) efficiency
+
+For a 50,000 sqft leafy greens vertical farm, it reduced energy cost per pound by 23% (saving `[$180K/yr]` at $0.08/kWh) and increased yield by 14% — the combined lift was `[$440K/yr]` in additional margin on the same footprint.
+
+Free 30-day energy optimization pilot. We'll run the agent on one zone of your farm and measure the kWh/lb improvement. Want to be the first to see your savings potential?
+
+Best,
+`[Your Name]`
+
+---
+
+### 127. Vineyards & Wineries — Harvest Timing & Tasting Room CRM
+**Subject:** AI sommelier that tells you exactly when to pick each block — and books the tasting room solid
+
+Hi `[Name]`,
+
+You walk every vine block every 3 days, checking Brix, pH, and taste. One wrong guess on harvest timing — picking too early (green tannins) or too late (raisined fruit) — costs you `[$50K–$500K]` in downgraded wine or lost bottles. And your tasting room is fighting a different battle: filling seats with high-value guests.
+
+I built an AI wine operations agent for vineyards and wineries that does both:
+
+**For the vineyard:**
+- Ingests weather, soil moisture, satellite imagery, degree-day accumulation, and berry sample data from every block
+- Predicts optimal harvest windows at the sub-block level, 7–14 days out, with a quality confidence score
+- Recommends selective harvest sequence: "Block 12 East (Pinot) — pick Thursday AM. Block 12 West — wait 5 days. Block 8 (Chard) — target Oct 7–10 for sparkling, wait until Oct 15 for still."
+- Flags disease pressure zones (powdery mildew, botrytis) and fungicide spray windows
+
+**For the tasting room:**
+- Analyzes booking patterns, club member preferences, and event schedules to predict daily traffic
+- Sends personalized pre-arrival messages to tasting reservations: "`[GuestName]`, we have the 2019 Reserve Cab waiting for you — it just won a double gold"
+- Flags VIP visitors (club members above `[$X]` spend, industry people, press) for general manager greeting
+
+For a 200-acre Napa Valley winery with a 40,000-case annual production and 8,000-visitor seasonal tasting room, it improved harvest precision so the reserve program increased from 12% to 18% of total production (worth `[$1.1M/yr]` in retail price lift) and tasting room revenue per visitor increased 31% via personalized upsells and VIP routing.
+
+Free harvest season analysis for your vineyard — pull 3 years of weather + block data and we'll show you optimal picking windows retrospectively. Want to see how your past harvests could have scored?
+
+Best,
+`[Your Name]`
+
+---
+
+### 128. Organic & Regenerative Farming — Certification Compliance & Audit Prep
+**Subject:** AI that turns your daily field ops into a perfect audit trail — no more certification panic
+
+Hi `[Name]`,
+
+Your organic certification audit is coming. You've got a filing cabinet full of spray records, seed receipts, field maps, and soil test results scattered across email, notebooks, and clipboard forms. The inspector asks for 3 years of records on one specific field, and your team spends 3 days digging. One missing document means a non-compliance citation — or worse, a decertification that costs you the organic premium (30–100% price lift).
+
+I built an AI organic compliance agent for certified organic and regenerative farms that:
+
+- Ingests every data source you already create: spray logs, seed tags, soil tests, compost tea brewing records, grazing rotation schedules, manure application dates
+- Maps every input and activity to your specific certifier's standards (USDA NOP, Organic Materials Review Institute, Regenerative Organic Certified, Demeter Biodynamic)
+- Generates a field-by-field compliance score in real time — green/yellow/red — with a daily prioritized action list: "Field 8 — your pre-harvest interval on compost tea expires tomorrow. Field 3 — the 3-year rotation plan shows soy after corn after soy, which violates the legume-ground rule. Adjust by Friday."
+- Prepares your full audit packet at the click of a button: field maps, input ledger, buffer zone records, seed certificates, and a narrative of practices — formatted to your certifier's standard
+
+For a 1,200-acre diversified organic farm with vegetable, grain, and livestock enterprises across 3 certificates, it reduced annual audit prep from 80 person-hours to 6 hours. The farm passed 3 consecutive audits with zero findings. The QA manager estimated the agent saved `[$40K/yr]` in consultant fees and staff overtime.
+
+Works with FarmOS, AgStudio, Granular, and any system that exports CSV. Free compliance gap analysis — we'll audit your last certification filing and identify every documentation risk. Ready to see your red flags before the inspector does?
+
+Best,
+`[Your Name]`
+
+---
+
+### 129. Agricultural Cooperatives — Member Grain Marketing & Data Insights
+**Subject:** AI that tells every grower member exactly when to sell their grain — and adds $15/acre to their bottom line
+
+Hi `[Name]`,
+
+Your co-op's grain marketing team watches futures, basis charts, and local elevator bids — but they can't call 1,500 grower members individually with personalized pricing advice. Each member is guessing when to sell, and the average member leaves `[$0.15–$0.30/bushel]` on the table by selling at the wrong time. In a 50M bushel co-op, that's `[$7.5M–$15M/yr]` of left-behind member value.
+
+I built an AI grain marketing agent for agricultural cooperatives that:
+
+- Monitors CBOT futures, local basis, export demand, freight rates, river levels, and weather patterns affecting your specific catchment area in real time
+- Generates a personalized daily marketing recommendation for every member: "`[GrowerName]`, based on your 45,000 bushels of corn in on-farm storage with drying cost of `[$0.04/bu]`, our model shows a 73% probability basis widens 14 cents in the next 30 days. Recommend pricing 50% of bushels on today's `[$X.XX]` July contract."
+- Segments members by risk tolerance, storage capacity, and cash flow needs — conservative members get hedge-to-arrive recommendations, aggressive members get short futures strategies
+- Tracks co-op-wide price capture vs. benchmark and reports the aggregate value the co-op delivered to members this season
+
+For a 40M bushel farmer-owned co-op in the Midwest, members who followed the AI recommendations captured an average of `[$0.19/bu]` above the seasonal average — worth `[$7.6M]` of incremental member income in a single season. Member engagement scores went up ("my co-op actually helps me make money") and grain throughput increased 14% as growers consolidated more volume through a co-op that provided market intelligence.
+
+Free member marketing performance analysis for your current crop — we'll show you what your growers are leaving on the table. Want to see the gap for your region?
+
+Best,
+`[Your Name]`
+
+---
+
+### 130. Irrigation Districts & Water Management — Smart Scheduling & Leak Detection
+**Subject:** AI water manager that cuts district pumping costs by 22% and delivers every farmer their exact allocation
+
+Hi `[Name]`,
+
+Your irrigation district manages water for 15,000+ acres, 50+ miles of canals, and 1,000+ grower turnouts. Your team drives canals checking water levels, adjusts gates manually, and responds to farmer complaints reactively. Every lost cubic foot per second is a grower who doesn't get their allocation — and a legal dispute.
+
+I built an AI water management agent for irrigation districts and water authorities that:
+
+- Ingests real-time SCADA data, flow meters, weather forecasts, soil moisture networks, and satellite evapotranspiration (ET) estimates
+- Generates an optimal 7-day delivery schedule that matches every grower's crop-water demand (by field, by crop type, by growth stage) to available supply — down to the CFS at each turnout
+- Detects canal leaks and unauthorized diversions within 15 minutes by comparing inflow vs. outflow at each reach — alerts your field crew with GPS coordinates
+- Models seasonal water budget scenarios: "At current snowpack and 5-year average drawdown, District will be 14% short by August 1. Recommended: activate 3 rotational blocks starting July 15, restrict 500 acres of alfalfa to 80% ET."
+
+For an irrigation district in California's Central Valley serving 18,000 acres with 120 miles of canals, the agent reduced pumping energy costs by 22% (`[$380K/yr]`), cut canal patrol and gate-setting labor by 60%, and delivered 97% allocation accuracy (up from 82%) — meaning growers got exactly what they ordered and stopped calling the watermaster at 6 AM.
+
+Free water budget analysis for your district — we'll model your current season allocation vs. projected demand and show every acre-foot of deficit before it becomes a crisis. Want to see your gap?
+
+Best,
+`[Your Name]`
+
+---
+
 ## BONUS: Template Usage Quick-Reference
 
 | Section | Best For | Send Window | Follow-up Cadence |
@@ -2079,7 +2545,9 @@ Best,
 || 71–80 v2.2 Automotive | Auto dealers, service centers, F&I | Mon–Wed mornings | Day 2, 5, 10 |
 || 81–90 v2.3 Home Services | HVAC, plumbing, electrical, landscaping, pest control, roofing | Tue–Thu mornings | Day 3, 7, 14, 21 |
 || 91–100 v2.4 Senior Care & Assisted Living | Skilled nursing, assisted living, memory care, home health, hospice | Tue–Thu mornings | Day 3, 7, 14 |
-|| 101–110 v2.5 Legal Services | Law firms, solo practitioners, personal injury, family law, estate planning, criminal defense, corporate counsel | Tue–Thu mornings | Day 3, 7, 14 |
+||| 101–110 v2.6 Legal Services | Law firms, solo practitioners, personal injury, family law, estate planning, criminal defense, corporate counsel | Tue–Thu mornings | Day 3, 7, 14 |
+||| 111–120 v2.6 Mental Health, Therapy & Counseling | Private practices, teletherapy, treatment centers, behavioral health | Tue–Thu mornings | Day 3, 7, 14 |
+||| 121–130 v2.7 Agriculture & Farming | Crop farms, livestock, agri-retail, equipment, processing, vineyards | Tue–Thu mornings | Day 3, 7, 14 |
 
 ---
 
@@ -2090,4 +2558,4 @@ Best,
 
 ---
 
-*Product Factory • Updated July 11, 2026 (v2.5) • $19 Suggested Retail (110 templates across 34 industries)*
+*Product Factory • Updated July 11, 2026 (v2.6) • $19 Suggested Retail (120 templates across 35 industries)*

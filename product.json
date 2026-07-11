@@ -1,15 +1,15 @@
 {
   "name": "Cold Email Swipe File PRO",
-  "version": "2.5",
+  "version": "2.7",
   "updated": "2026-07-11",
-  "templates": 110,
-  "industries": 34,
-  "new_in_v2_5": "Legal Services industry (Law Firms, Solo Practitioners & Legal Departments) — 10 new templates covering Personal Injury intake, Family Law discovery, Estate Planning doc prep, Criminal Defense court date management, Corporate Counsel contract review, Immigration case status, Real Estate title review, Litigation deposition prep, Solo practitioner marketing, and Billing & Collections AR management",
+  "templates": 130,
+  "industries": 36,
+  "new_in_v2_7": "Agriculture & Farming industry (Crop Farms, Livestock Operations, Agri-Retail, Farm Equipment Dealerships, Food Processing, Vertical Farms, Vineyards, Organic Farming, Ag Co-ops, Irrigation Districts) — 10 new templates covering Precision Ag & Field Monitoring, Herd Health & Feeding Optimization, Agri-Retail Reorder Automation, Farm Equipment Predictive Maintenance, Food Processing QC & Yield, CEA Climate/Lighting ML, Vineyard Harvest Timing & Tasting Room CRM, Organic Certification Compliance, Co-op Grain Marketing, and Irrigation District Water Management",
   "price": 19,
   "bundle_price": 37,
   "landing_page": "https://tennie321.github.io/cold-email-swipe-file-pro/",
   "repo": "tennie321/cold-email-swipe-file-pro",
-  "description": "110 battle-tested cold email templates across 34 industries for AI automation agencies. v2.5 adds 10 Legal Services industry templates.",
+  "description": "130 battle-tested cold email templates across 36 industries for AI automation agencies. v2.7 adds 10 Agriculture & Farming industry templates.",
   "top_converters": [
     {"template": 41, "name": "The Audit Offer", "reply_rate": "9.2%"},
     {"template": 1, "name": "Problem-Aware Prospect", "reply_rate": "8.7%"},
@@ -27,10 +27,12 @@
     "v2_2_automotive": "Templates 71-80",
     "v2_3_home_services": "Templates 81-90",
     "v2_4_senior_care": "Templates 91-100",
-    "v2_5_legal_services": "Templates 101-110"
+    "v2_5_legal_services": "Templates 101-110",
+    "v2_6_mental_health": "Templates 111-120",
+    "v2_7_agriculture": "Templates 121-130"
   },
   "round": 1,
   "action": "product_build",
   "round_option": "a",
-  "build_type": "Add 10 templates — new industry (Legal Services: Personal Injury, Family Law, Estate Planning, Criminal Defense, Corporate Counsel, Immigration, Real Estate Law, Litigation, Solo Practitioner, Billing & Collections)"
+  "build_type": "Add 10 templates — new industry (Agriculture & Farming: Crop Farms, Livestock Operations, Agri-Retail, Farm Equipment Dealerships, Food Processing, Vertical Farms, Vineyards, Organic Farming, Agricultural Co-ops, Irrigation Districts)"
 }
