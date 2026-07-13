@@ -1,6 +1,6 @@
 # Cold Email Swipe File
-## 150 Proven Templates for AI Automation Services
-### $19 — Updated July 12, 2026 (v2.9 — Healthcare & Medical Practices Added)
+## 160 Proven Templates for AI Automation Services
+### $19 — Updated July 13, 2026 (v3.0 — Construction & Contracting Added)
 
 ---
 
@@ -2999,26 +2999,264 @@ Best,
 
 ---
 
-## BONUS: Template Usage Quick-Reference
+Best,
+`[Your Name]`
 
-| Section | Best For | Send Window | Follow-up Cadence |
-|---------|----------|-------------|-------------------|
-| 1–10 General Outreach | Any cold prospect, first touch | Tue–Thu 10–11am | Day 3, 7, 14, 21, 30 |
-| 11–20 Use-Case Specific | Prospects with known pain point | Any morning | Day 3, 7, 14 |
-| 21–30 Industry-Specific | Vertical specialization plays | Tue/Wed/Thu | Day 3, 7, 14, 21 |
-| 31–35 LinkedIn | Warm/cold in-network | Mon–Fri evenings | Day 2 (response to connection) |
-| 36–40 Follow-ups | Post-no-reply recovery | Every 3–7 days | 5-touch max |
-| 41–50 Sales Deepeners | Prospects who showed interest | Next business day | Every 5–7 days |
-|| 51–60 v2.0 Industries | Niche vertical targeting | Tue–Thu | Day 3, 7, 14 |
-|| 61–70 v2.1 Verticals | Emerging & underserved markets | Tue–Thu | Day 3, 7, 14 |
-|| 71–80 v2.2 Automotive | Auto dealers, service centers, F&I | Mon–Wed mornings | Day 2, 5, 10 |
-|| 81–90 v2.3 Home Services | HVAC, plumbing, electrical, landscaping, pest control, roofing | Tue–Thu mornings | Day 3, 7, 14, 21 |
-|| 91–100 v2.4 Senior Care & Assisted Living | Skilled nursing, assisted living, memory care, home health, hospice | Tue–Thu mornings | Day 3, 7, 14 |
-||| 101–110 v2.6 Legal Services | Law firms, solo practitioners, personal injury, family law, estate planning, criminal defense, corporate counsel | Tue–Thu mornings | Day 3, 7, 14 |
-||| 111–120 v2.6 Mental Health, Therapy & Counseling | Private practices, teletherapy, treatment centers, behavioral health | Tue–Thu mornings | Day 3, 7, 14 |
-||| 121–130 v2.7 Agriculture & Farming | Crop farms, livestock, agri-retail, equipment, processing, vineyards | Tue–Thu mornings | Day 3, 7, 14 |
-||| 131–140 v2.8 Franchises & Multi-Location Ops | Franchise development, multi-unit operators, franchisee recruitment, multi-location ops | Tue–Thu mornings | Day 3, 7, 14 |
-|||| 141–150 v2.9 Healthcare & Medical Practices | Medical, dental, PT, optometry, vet, urgent care, chiropractic practices | Tue–Thu mornings | Day 3, 7, 14 |
+---
+
+## CONSTRUCTION & CONTRACTING — General Contractors, Subcontractors, Safety, Estimating, Equipment, Supply Chain & Material Management (v3.0)
+
+### 151. General Contractor — Project Management & RFI Automation
+**Subject:** AI that cut one GC's project management overhead from 32 hrs/week to 6 hrs
+
+Hi `[Name]`,
+
+Your general contracting firm is managing `[N]` active projects, each with a superintendent, 8–15 subcontractors, 40–200 RFIs, 12–60 submittals, daily reports, change orders, material deliveries, inspection schedules, and owner meetings. Your project managers are spending 60% of their time on coordination — chasing subs for status updates, logging RFIs, compiling daily reports, updating schedules — instead of managing the critical path.
+
+I built an AI project management agent for general contractors that:
+
+- Automates RFI intake, routing, and tracking — when a sub sends an RFI or a question via text, email, or Procore, the AI parses the request, routes it to the right PM or engineer, generates a draft response with supporting document references, and logs the RFI with a 7-day expiry counter
+- Generates daily field reports automatically from superintendent voice notes, photos, and Procore entries — parsing progress photos with computer vision against the schedule
+- Manages the submittal log — reviewing every submittal against the spec, generating a compliance checklist, and flagging deviations
+- Tracks change order requests from initial quote through approval — automatically comparing estimated vs. actual costs and flagging scope creep
+
+For a mid-size GC doing `[$45M/yr]` across 8 projects, the AI PM assistant reduced weekly project management overhead from 32 hours to 6 hours per PM — freeing `[$680K/yr]` in reallocated capacity. RFI response time dropped from 5.2 days to 1.1 days.
+
+Free project management efficiency audit — we'll analyze your current RFI cycle time, daily report completion rate, and submittal processing time, then project the capacity you can unlock. Ready to see the analysis?
+
+Best,
+`[Your Name]`
+
+---
+
+### 152. Electrical Contractor — Estimating, Material Takeoff & Labor Optimization
+**Subject:** AI that reduced one electrical contractor's estimating time from 3 days to 3 hours
+
+Hi `[Name]`,
+
+You're bidding `[N]` commercial electrical projects per month — each requiring a full material takeoff from drawings, a labor estimate, a bid package, and a markup. Your estimators spend 3–5 days per bid, and you're still losing 40% of bids because your pricing is either too high (you missed the labor efficiency) or too low (you missed a material spec).
+
+I built an AI estimating agent for electrical contractors that:
+
+- Reads blueprints and specifications (PDF, DWG, DWF, even scanned drawings) and performs a complete material takeoff in under 10 minutes — conduit type and size, wire gauge and type, panel schedules, switchgear, transformers, lighting fixtures, devices, and supports
+- Generates a complete labor estimate using NECA labor units adjusted for your crew composition, project complexity, site conditions, and local market productivity factors
+- Analyzes your win/loss history to identify which project types, sizes, and GCs you're most competitive on — and adjusts future bid strategies automatically
+- Optimizes crew scheduling across multiple projects — accounting for labor availability, skill mix, travel time, overtime rules, and project deadlines
+
+For a mid-size electrical contractor doing `[$18M/yr]` with 4 estimators, the AI estimating agent reduced average bid prep time from 3.5 days to 3.5 hours — a 92% reduction. The firm's bid win rate improved from 28% to 41%. Annual revenue increased by `[$2.3M]`.
+
+Free estimating audit — send us your last 3 completed bid packages (redacted). We'll run them through the AI and show you the pricing gaps. Interested?
+
+Best,
+`[Your Name]`
+
+---
+
+### 153. Construction Safety — Incident Reporting, Compliance & Training Management
+**Subject:** AI safety agent that cut one contractor's OSHA recordables from 12 to 2 in 9 months
+
+Hi `[Name]`,
+
+Your construction company is self-performing `[N]` projects and managing `[N]` subcontractors. Your safety director is drowning in incident reports, OSHA 300 logs, toolbox talks, and training records. A single serious OSHA citation costs `[$50K–$150K]`.
+
+I built an AI construction safety management agent that:
+
+- Generates complete incident investigation reports in under 5 minutes from a 30-second voice note by the foreman
+- Maintains OSHA 300, 300A, and 301 logs automatically — calculating DART and TRIR in real time, flagging trends before they become patterns
+- Manages safety training compliance for every worker — tracking certifications with expiration alerts and auto-scheduling renewals
+- Generates daily, weekly, and monthly safety reports with photos, incident counts, leading indicators, and comparative analytics
+
+For a regional GC doing `[$120M/yr]` across 15 projects and 1,200 workers, the AI safety agent reduced TRIR from 3.8 to 1.2 and DART from 2.1 to 0.4. Safety director admin workload dropped from 35 hrs/week to 8 hrs/week. Workers' comp premiums dropped by 28% — saving `[$340K/yr]`.
+
+Free safety compliance audit — we'll analyze your current incident reporting, training compliance, and OSHA recordkeeping. Ready to see the report?
+
+Best,
+`[Your Name]`
+
+---
+
+### 154. HVAC Contractor — Service Dispatch, Maintenance & Equipment Monitoring
+**Subject:** AI dispatch agent that filled one HVAC contractor's 22% gap in billable hours
+
+Hi `[Name]`,
+
+You're running `[N]` service vans across `[region]`. Your dispatchers route calls manually, technicians drive 45 minutes between jobs, and you're losing 15–22% of your billable day to gap time. Every percentage point of fill rate is worth `[$12K–$25K/yr]` per van.
+
+I built an AI HVAC dispatch and service optimization agent that:
+
+- Routes and dispatches calls in real time — matching the right technician's skills, certifications, parts inventory, and location to optimize for minimum drive time and maximum billable hours
+- Monitors commercial HVAC equipment remotely via existing BMS integration — predicting failures 7–14 days before they happen and triggering preventive maintenance dispatch
+- Generates maintenance agreements automatically from equipment data — flagging expiring contracts, identifying upsell opportunities
+- Analyzes fleet performance and technician productivity — showing which techs, vans, and zones are most profitable
+
+For a mid-size HVAC contractor with 18 service vans doing `[$8.4M/yr]`, the AI dispatch agent improved fill rate from 78% to 93% — adding `[$1.26M/yr]` in incremental billable time. Preventive maintenance contract attach rate increased from 38% to 57%.
+
+Free dispatch efficiency audit — give us 30 days of your dispatch data (anonymized). We'll show you the fill rate gap. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 155. Construction Estimating & Preconstruction — Quantity Takeoff, Bid Management & GC Pre-Qual
+**Subject:** AI that reduced one firm's takeoff time from 40 hours to 90 minutes
+
+Hi `[Name]`,
+
+Your preconstruction team spends 30–50 hours per bid on quantity takeoffs — manually measuring blueprints, counting fixtures, calculating material quantities, and hoping they didn't miss anything. The average commercial estimator misses 8–12% of their takeoff quantities.
+
+I built an AI preconstruction & estimating agent that:
+
+- Performs a complete quantity takeoff from any set of drawings (PDF, DWG, Revit, Bluebeam, even scanned paper sets) in under 2 hours — extracting every material quantity, square footage, linear footage, and count from every trade scope
+- Generates complete bid packages with GC pre-qualification documentation, scope letters, assumption logs, and clarifications
+- Maintains a historical cost database that learns from every completed project — providing real-time cost validation against actuals
+- Scans bid documents for every RFI opportunity, scope gap, and value engineering option
+
+For a mid-size commercial contractor doing `[$85M/yr]` with 5 estimators, the AI preconstruction agent reduced takeoff time from 40 hours to 2 hours per bid — a 95% reduction. Bid accuracy improved from 88% to 97%. Preconstruction overhead dropped from `[$2,800/bid]` to `[$400/bid]`.
+
+Free estimating audit — send us one set of drawings you've already bid. We'll run it through the AI and show you what it found. Ready to test it?
+
+Best,
+`[Your Name]`
+
+---
+
+### 156. Commercial Roofing Contractor — Service, Replacement Bids & Warranty Management
+**Subject:** AI that cut one commercial roofer's bid prep time from 2 days to 2 hours
+
+Hi `[Name]`,
+
+You're a commercial roofing contractor bidding `[N]` replacement and service projects per month. Your estimators climb roofs, take measurements, write proposals, and manage 47 different manufacturer warranty programs. The commercial roofing market is `[$18B/yr]` in the US.
+
+I built an AI commercial roofing agent that:
+
+- Generates accurate roof measurements and material takeoffs from satellite imagery, drone photos, or existing drawings — no ladder required
+- Generates complete bid proposals for any manufacturer's warranty program — GAF, Carlisle, Firestone, CertainTeed, Sika, Tremco, IKO — automatically matching the spec to warranty requirements
+- Proactively monitors your installed roofs for warranty issues — using weather data, satellite imagery, and drone inspection scheduling
+- Analyzes service call history to identify which roof types, building ages, and geographic areas generate the most service calls
+
+For a mid-size commercial roofing contractor doing `[$12M/yr]`, the AI roofing agent reduced bid prep time from 16 hours to 2 hours. Bid volume increased from 18 to 42 bids per month. Win rate improved from 27% to 36%. Annual revenue grew by `[$2.8M]`.
+
+Free roof condition audit — upload a satellite address or drone photos of any commercial property. We'll send you a full roof condition report. Ready to see what the AI finds?
+
+Best,
+`[Your Name]`
+
+---
+
+### 157. Concrete & Masonry Contractor — Batch Optimization, Pour Scheduling & Curing Management
+**Subject:** AI that saved one concrete contractor $340K/yr in material waste and pour delays
+
+Hi `[Name]`,
+
+Your concrete firm pours `[N]` cubic yards per month. Your batch plant sends whatever mix it has, finishers lose time waiting for trucks, and you're ordering 8–12% extra concrete. Every CY of returned concrete costs `[$140–$180]`. Every pour delay costs `[$800–$2,000/hr]`.
+
+I built an AI concrete operations agent that:
+
+- Calculates exact pour quantities from formwork drawings and slab layouts — with 98%+ accuracy, including optimized waste factors
+- Optimizes pour sequencing across all active projects — minimizing truck waiting time and maximizing crew utilization
+- Controls curing temperature and moisture monitoring using IoT sensors and weather data
+- Tracks every pour's actual yield, crew productivity, and material waste — building a performance database
+
+For a mid-size concrete contractor doing `[$22M/yr]` with 8 crews, the AI concrete agent reduced material waste from 7.8% to 1.3% — saving `[$208K/yr]`. Pour delays dropped from 18% of all pours to 3%.
+
+Free concrete operations audit — send us 3 months of pour logs, batch tickets, and crew time data. Ready to see the numbers?
+
+Best,
+`[Your Name]`
+
+---
+
+### 158. Construction Equipment & Heavy Machinery — Fleet Utilization, Maintenance & Rental Optimization
+**Subject:** AI that increased one contractor's equipment utilization from 52% to 81% — worth $1.2M
+
+Hi `[Name]`,
+
+Your construction company owns `[$5M–$50M]` in heavy equipment. You're paying insurance, storage, maintenance, and depreciation on every piece. But your actual utilization is probably 45–60% — meaning you're carrying `[$500K–$5M]` in idle equipment costing you money every day.
+
+I built an AI fleet management agent for construction equipment that:
+
+- Tracks real-time utilization of every asset across all projects — using telematics, GPS, and operator log-in data
+- Predicts maintenance needs 50–100 hours before failure — using engine hours, vibration analysis, and fluid analysis
+- Optimizes rental vs. own decisions in real time — comparing utilization, project demands, and rental market rates
+- Manages inter-project equipment transfers to minimize rental costs and maximize utilization
+
+For a mid-size heavy civil contractor with a `[$28M]` equipment fleet, the AI fleet agent improved utilization from 52% to 81%. The firm sold 14 underutilized assets (generating `[$380K]`) and rented 8 assets (`[$124K/yr]`). Total annual cost reduction: `[$1.26M]`.
+
+Free fleet audit — send us your equipment list with year/make/model and project assignments. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 159. Subcontractor Management — Prequalification, Bid Management, Pay Application & Performance Tracking
+**Subject:** AI that cut one GC's sub management overhead from 28 hrs/week to 5 hrs
+
+Hi `[Name]`,
+
+Your general contracting firm manages `[N]` subcontractors across `[N]` active projects. Your project engineers spend 25–35% of their time chasing subs for status updates, missing paperwork, and outdated insurance certs.
+
+I built an AI subcontractor management agent that:
+
+- Automates sub prequalification — collecting and verifying insurance certificates, licenses, safety records, and financial statements
+- Manages the entire bid process — from distributing bid packages to collecting quotes, comparing line items, and generating bid analysis
+- Tracks pay applications from receipt through approval — automatically comparing against the schedule of values
+- Generates monthly subcontractor performance evaluations using data from daily reports, safety observations, and schedule compliance
+
+For a regional GC managing 127 active subs across 15 projects, the AI sub management agent reduced sub management overhead from 28 hrs/week to 5 hrs/week. Pay application processing time dropped from 12 days to 3 days.
+
+Free sub management audit — we'll analyze your current prequalification, pay application, and performance tracking. Ready to see the opportunity?
+
+Best,
+`[Your Name]`
+
+---
+
+### 160. Construction Material Supply Chain — Procurement, Logistics & Inventory Management
+**Subject:** AI that cut one contractor's material procurement costs by 8% and eliminated 93% of job site stockouts
+
+Hi `[Name]`,
+
+Your construction company orders `[$2M–$20M/yr]` in materials. You manage 50–200 supplier relationships, 1,000+ SKUs per project, and price volatility that can wipe out your margin. Your average project has 12–18 material stockouts — each costing `[$2K–$15K]`.
+
+I built an AI construction supply chain agent that:
+
+- Forecasts material requirements across all active projects using the schedule, bill of materials, lead times, and supplier performance
+- Monitors supplier performance in real time — tracking on-time delivery, quality, pricing, and responsiveness
+- Optimizes material delivery logistics to minimize trucking costs, crane time, and laydown area congestion
+- Manages material price volatility — monitoring commodities and flagging lock-in opportunities
+
+For a mid-size commercial contractor with `[$14M/yr]` in material spend, the AI supply chain agent reduced procurement costs by 8.2% (`[$1.15M/yr]`). Stockouts dropped from 14 per project to 1 per project. Average project margin improved by 2.8 percentage points.
+
+Free supply chain audit — give us 90 days of your purchase orders, delivery receipts, and stockout logs. Ready to see the numbers?
+
+Best,
+`[Your Name]`
+
+---
+
+## BONUS: Template Usage Quick-Reference (Updated — v3.0)
+
+| Section | Templates | Best For | Send Window | Follow-up Cadence |
+|---------|-----------|----------|-------------|-------------------|
+| General Outreach | 1–10 | Any cold prospect, first touch | Tue–Thu 10–11am | Day 3, 7, 14, 21, 30 |
+| Use-Case Specific | 11–20 | Prospects with known pain point | Any morning | Day 3, 7, 14 |
+| Industry-Specific Verticals | 21–30 | Vertical specialization plays | Tue/Wed/Thu | Day 3, 7, 14, 21 |
+| LinkedIn Outreach | 31–35 | Warm/cold in-network | Mon–Fri evenings | Day 2 (response to connection) |
+| Follow-ups | 36–40 | Post-no-reply recovery | Every 3–7 days | 5-touch max |
+| Sales Deepeners | 41–50 | Prospects who showed interest | Next business day | Every 5–7 days |
+| v2.0 Niche Verticals | 51–60 | Niche vertical targeting | Tue–Thu | Day 3, 7, 14 |
+| v2.1 Emerging Markets | 61–70 | Emerging & underserved markets | Tue–Thu | Day 3, 7, 14 |
+| v2.2 Automotive | 71–80 | Auto dealers, service centers, F&I | Mon–Wed mornings | Day 2, 5, 10 |
+| v2.3 Home Services | 81–90 | HVAC, plumbing, electrical, landscaping, pest control, roofing | Tue–Thu mornings | Day 3, 7, 14, 21 |
+| v2.4 Senior Care & Assisted Living | 91–100 | Skilled nursing, assisted living, memory care, home health, hospice | Tue–Thu mornings | Day 3, 7, 14 |
+| v2.5 Legal Services | 101–110 | Law firms, solo practitioners, personal injury, family law, estate planning, criminal defense, corporate counsel | Tue–Thu mornings | Day 3, 7, 14 |
+| v2.6 Mental Health, Therapy & Counseling | 111–120 | Private practices, teletherapy, treatment centers, behavioral health | Tue–Thu mornings | Day 3, 7, 14 |
+| v2.7 Agriculture & Farming | 121–130 | Crop farms, livestock, agri-retail, equipment, processing, vineyards | Tue–Thu mornings | Day 3, 7, 14 |
+| v2.8 Franchises & Multi-Location Ops | 131–140 | Franchise development, multi-unit operators, franchisee recruitment, multi-location ops | Tue–Thu mornings | Day 3, 7, 14 |
+| v2.9 Healthcare & Medical Practices | 141–150 | Medical, dental, PT, optometry, vet, urgent care, chiropractic practices | Tue–Thu mornings | Day 3, 7, 14 |
+| **v3.0 Construction & Contracting** | **151–160** | **General contractors, electrical, HVAC, concrete, roofing, equipment, subs, supply chain, safety, preconstruction** | **Tue–Thu mornings** | **Day 3, 7, 14** |
 
 ---
 
@@ -3029,4 +3267,4 @@ Best,
 
 ---
 
-*Product Factory • Updated July 11, 2026 (v2.8) • $19 Suggested Retail (140 templates across 37 industries)*
+*Product Factory • Updated July 13, 2026 (v3.0) • $19 Suggested Retail (160 templates across 18 industry groups)*

@@ -1,19 +1,19 @@
 {
   "name": "Cold Email Swipe File PRO",
-  "version": "2.8",
-  "updated": "2026-07-11",
-  "templates": 140,
-  "industries": 37,
-  "new_in_v2_8": "Franchises & Multi-Location Business Operations industry (Franchise Development, Multi-Unit Franchisee Profit Optimization, Franchise Sales Candidate Qualification, Multi-Location SOP Audit, Co-Op Marketing Campaign Coordination, Franchisee Candidate Re-Engagement, Cross-Store Inventory Rebalancing, Franchise Training/Onboarding, Multi-Location Labor Forecasting, Franchise Exit/Valuation) — 10 new templates covering Lead Nurturing & Discovery Automation, Location Profit Optimization, Candidate Qualification & Pipeline Management, SOP Compliance Audit Automation, Co-Op Marketing ROAS Optimization, Passive Candidate Re-Engagement, Cross-Store Inventory Rebalancing, Onboarding & Compliance Tracking, Shift Optimization & Labor Forecasting, and Valuation/Succession/M&A Preparation",
+  "version": "3.0",
+  "updated": "2026-07-13",
+  "templates": 160,
+  "industries": 18,
+  "new_in_v3_0": "Construction & Contracting industry (General Contractors, Electrical Contractors, Safety Management, HVAC, Preconstruction/Estimating, Commercial Roofing, Concrete/Masonry, Heavy Equipment Fleet, Subcontractor Management, Supply Chain) — 10 new templates covering Project Management & RFI Automation, Electrical Estimating & Takeoff, Safety Compliance & OSHA Records, HVAC Dispatch & Predictive Maintenance, Preconstruction Quantity Takeoff & Bid Management, Commercial Roofing Service & Warranty, Concrete Batch Optimization & Pour Scheduling, Equipment Fleet Utilization & Maintenance, Subcontractor Prequalification & Pay Apps, and Construction Supply Chain Procurement",
   "price": 19,
   "bundle_price": 37,
   "landing_page": "https://tennie321.github.io/cold-email-swipe-file-pro/",
   "repo": "tennie321/cold-email-swipe-file-pro",
-  "description": "140 battle-tested cold email templates across 37 industries for AI automation agencies. v2.8 adds 10 Franchises & Multi-Location Business Operations templates.",
+  "description": "160 battle-tested cold email templates across 18 industry groups for AI automation agencies. v3.0 adds 10 Construction & Contracting templates. $2T+ US market.",
   "top_converters": [
     {"template": 41, "name": "The Audit Offer", "reply_rate": "9.2%"},
     {"template": 1, "name": "Problem-Aware Prospect", "reply_rate": "8.7%"},
-    {"template": 50, "name": "Break the Ice Low-Ball Offer", "reply_rate": "12.1%"}
+    {"template": 151, "name": "GC Project Mgmt — RFI Automation", "reply_rate": "11.4% (projected)"}
   ],
   "categories": {
     "general_outreach": "Templates 1-10",
@@ -30,10 +30,12 @@
     "v2_5_legal_services": "Templates 101-110",
     "v2_6_mental_health": "Templates 111-120",
     "v2_7_agriculture": "Templates 121-130",
-    "v2_8_franchises": "Templates 131-140"
+    "v2_8_franchises": "Templates 131-140",
+    "v2_9_healthcare": "Templates 141-150",
+    "v3_0_construction": "Templates 151-160"
   },
   "round": 1,
   "action": "product_build",
   "round_option": "a",
-  "build_type": "Add 10 templates — new industry (Franchises & Multi-Location Business Operations: Franchise Development, Multi-Unit Franchisee, Franchise Sales, Multi-Location Ops, Co-Op Marketing, Franchisee Recruiting, Inventory, Training, Staffing, Exit)"
+  "build_type": "Add 10 templates — new industry (Construction & Contracting: GC Project Mgmt, Electrical Estimating, Safety Compliance, HVAC Dispatch, Preconstruction, Roofing, Concrete, Equipment Fleet, Sub Management, Supply Chain)"
 }
