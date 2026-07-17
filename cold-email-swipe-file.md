@@ -1,6 +1,6 @@
 # Cold Email Swipe File
-## 160 Proven Templates for AI Automation Services
-### $19 — Updated July 13, 2026 (v3.0 — Construction & Contracting Added)
+## 170 Proven Templates for AI Automation Services
+### $19 — Updated July 17, 2026 (v3.1 — Property Management & Real Estate Operations Added)
 
 ---
 
@@ -3236,7 +3236,251 @@ Best,
 
 ---
 
-## BONUS: Template Usage Quick-Reference (Updated — v3.0)
+## PROPERTY MANAGEMENT & REAL ESTATE OPERATIONS — Property Managers, Multifamily, HOA/COA Management, Commercial Property, Real Estate Investment Firms (v3.1)
+
+### 161. Multifamily Property Manager — Maintenance Request & Resident Communication Automation
+**Subject:** AI that cut one PM's maintenance overhead from 30 hrs/week to 6 hrs
+
+Hi `[Name]`,
+
+You're managing `[N]` units across `[N]` properties. Your maintenance requests come in through phone calls, texts, emails, resident portals, and walk-in complaints. Each request takes 8–12 minutes to log, route, and follow up. You're carrying 2–4 days of backlog and residents are frustrated with response times.
+
+I built an AI property management agent that handles your entire maintenance workflow:
+
+- Automates maintenance request intake from ANY channel — a resident texts a photo of a leak, the AI logs the request, determines urgency from the description and photo, routes it to the right vendor or in-house tech, and sends the resident an ETA and confirmation — all in under 60 seconds
+- Sends proactive status updates at key milestones: "Your request has been assigned to `[Vendor Name]`. They'll arrive between 2–4 PM today. We'll confirm completion via text."
+- Tracks vendor response times, completion rates, and cost-per-repair automatically — building a vendor scorecard that tells you which plumbers, electricians, and HVAC techs perform best per property
+- Generates weekly maintenance reports showing total requests, average response time, most common issue types per property, and cost-per-unit trend
+
+For a mid-size PM firm managing 1,200 units across 6 properties, the AI maintenance agent reduced maintenance admin from 30 hrs/week to 6 hrs/week. Average response time dropped from 8.4 hours to 47 minutes. Resident satisfaction scores improved from 3.2/5 to 4.6/5.
+
+Free maintenance audit — give us 90 days of your work order data. We'll show you exactly where you're losing time and money. Ready to see the analysis?
+
+Best,
+`[Your Name]`
+
+---
+
+### 162. HOA/COA Management — Compliance, Violation Tracking & Board Communication
+**Subject:** AI that cut one HOA manager's violation tracking from 15 hrs/week to 2 hrs
+
+Hi `[Name]`,
+
+You manage `[N]` HOA or condo associations with `[N]` homeowners. Your board members expect monthly violation reports, your CC&Rs require documented enforcement timelines, and homeowners are calling to dispute fines. Your current system is a mess of spreadsheets, emails, and paper forms.
+
+I built an AI HOA management agent that:
+
+- Automates violation detection and documentation — a homeowner parks in the wrong spot or leaves bins out past pickup, the AI generates the violation notice from patrol photos or resident reports, logs it against the specific CC&R clause, and sends the owner a compliant first notice with photo evidence and a cure period
+- Tracks every violation through the full enforcement lifecycle — first notice → cure period → fine assessment → lien filing — with automatic reminders at every trigger point
+- Generates board-ready compliance reports each month — showing violation frequency by type, by street, by owner, with trend analysis
+- Manages common area maintenance schedules — landscaping, pool cleaning, elevator inspections, fire alarm testing — with vendor dispatch tracking
+
+For an HOA management firm overseeing 8 associations (2,400 homes), the AI HOA agent reduced violation processing time from 15 hrs/week to 2 hrs/week. Fine compliance (homeowners paying before lien stage) improved from 42% to 78%. Board satisfaction scores went from 3.1/5 to 4.7/5.
+
+Free HOA compliance audit — send us your last 3 months of violation logs. We'll run the AI analysis and show you the enforcement gaps. Interested?
+
+Best,
+`[Your Name]`
+
+---
+
+### 163. Commercial Property Manager — Lease Administration, CAM Reconciliation & Tenant Relations
+**Subject:** AI that cut one commercial PM's CAM reconciliation from 3 weeks to 3 hours
+
+Hi `[Name]`,
+
+You manage `[N]` commercial properties totaling `[N]` SF. Your tenants send rent payments manually, CAM reconciliations take 2–3 weeks every quarter, and lease terms are scattered across contracts, spreadsheets, and PDFs. Your property owners are asking for better reporting.
+
+I built an AI commercial property management agent that:
+
+- Extracts and maintains every lease term from signed documents — base rent, escalations, CAM caps, renewal options, termination rights, use restrictions, exclusivity clauses — and alerts you before every critical date
+- Automates CAM reconciliation — the AI reads every invoice (janitorial, landscaping, utilities, security, repairs) and allocates costs per lease terms, generates the reconciliation statement, and sends it to each tenant with a detailed backup
+- Tracks rent collections and sends automated late payment sequences — starting with a friendly reminder on day 1, escalating to a formal notice on day 10
+- Generates monthly portfolio reports for property owners — occupancy, rent roll, NOI, CAM recovery rate, capital expenditures, and tenant retention risk
+
+For a commercial PM firm managing 1.2M SF across 22 properties, the AI commercial agent reduced CAM reconciliation from 3 weeks to 3 hours per quarter. Late rent payments dropped from 24% of tenants to 8%. Property owner reporting requests dropped by 70%.
+
+Free lease administration audit — send us 5 of your current leases (redacted). We'll extract every critical term and show you the compliance gaps. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 164. Real Estate Investment Firm — Portfolio Analytics, Acquisition Screening & Asset Management
+**Subject:** AI that screens 200+ investment properties per month in the time it takes you to review 5
+
+Hi `[Name]`,
+
+Your real estate investment firm reviews `[N]` potential acquisitions per month. Your analysts spend 3–5 hours per deal underwriting pro formas, running comps, and checking zoning. You're leaving good deals on the table because your team can't move fast enough.
+
+I built an AI real estate investment agent that:
+
+- Screens potential acquisitions in under 3 minutes per property — pulling tax records, recent sales comps, census demographics, school ratings, flood zone data, zoning overlays, and crime statistics from public sources
+- Generates a complete pro forma automatically — projecting cash flow, IRR, equity multiple, DSCR, and debt coverage based on your acquisition criteria and market assumptions
+- Compares every screened property against your existing portfolio — flagging diversification opportunities, concentration risk, and market overlap
+- Monitors your existing portfolio's performance monthly — alerting you when any asset's NOI, occupancy, or DSCR crosses your threshold
+
+For a mid-market real estate investment firm with a `[$180M]` portfolio across 47 assets, the AI investment agent increased deal screening capacity from 35 deals/month to 230+ deals/month. The firm identified 8 off-market opportunities in the first quarter and acquired 3 properties that had collectively generated `[$4.2M]` in projected Year-1 NOI.
+
+Free portfolio intelligence report — send us your current asset list (address + units/SF). We'll send you a full concentration analysis, market risk assessment, and peer benchmarking. Ready to see the report?
+
+Best,
+`[Your Name]`
+
+---
+
+### 165. Tenant Screening & Leasing Agent — Automated Applicant Processing & Lease-Up Optimization
+**Subject:** AI that cut one PM's tenant screening cycle from 5 days to 4 hours
+
+Hi `[Name]`,
+
+Your properties have `[N]%` vacancy and your leasing team is spending 3–5 days per applicant on screening — verifying income, calling previous landlords, checking credit, running background checks. Every day a unit stays vacant costs you `[$X]` in lost rent.
+
+I built an AI tenant screening & leasing agent that:
+
+- Processes rental applications in under 4 hours — the AI verifies income via bank statement analysis or payroll API, runs credit and background checks, calls and verifies previous landlord references using an automated voice agent, and generates a complete applicant score
+- Scores every applicant on a 0–100 scale based on your specific criteria — income-to-rent ratio (min 3x), credit score, rental history, eviction records, criminal background, and employment stability
+- Generates lease documents automatically upon approval — pulling your state-specific lease template, filling in the applicant's details, and sending for e-signature with security deposit instructions
+- Tracks every prospect from inquiry to lease — showing which sources (Zillow, Apartments.com, referrals, drive-by) produce the best tenants and fastest lease-ups
+
+For a 350-unit apartment community, the AI leasing agent reduced average vacancy period from 18 days to 6 days — worth `[$126K/yr]` in recovered rent. Tenant screening time dropped from 5 days to 4 hours. Application abandonment rate decreased from 47% to 18%.
+
+Free leasing audit — send us your last 3 months of application data. We'll show you exactly where applicants drop off and how fast you could fill vacancies. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 166. Facilities & Vendor Management — Contractor Dispatch, Service Verification & Invoice Auditing
+**Subject:** AI that audited one PM's vendor invoices and found $47K in overbilling in the first month
+
+Hi `[Name]`,
+
+You manage `[N]` vendors across `[N]` properties — landscapers, janitorial, pest control, security, elevator, fire safety, roofing, HVAC, plumbing. Your vendor invoices arrive in different formats, your PMs approve them without verification, and you're paying for work that wasn't done.
+
+I built an AI facilities & vendor management agent that:
+
+- Routes every maintenance or service request to the right vendor automatically — matching scope, location, urgency, and cost against your preferred vendor list
+- Verifies vendor service completion via photo analysis, GPS check-in, and resident confirmation — the AI reviews completion photos against the job scope before approving payment
+- Audits every vendor invoice against the agreed contract rate, scope of work, and service verification — flagging overbilling, unauthorized add-ons, and duplicate charges
+- Generates monthly vendor scorecards ranking every vendor by response time, quality score, cost competitiveness, and compliance with SLAs
+
+For a PM firm managing 4,500 units, the AI vendor agent identified `[$47K]` in vendor overbilling in the first month (8.3% of total vendor spend). Vendor response time improved from 12.4 hours to 3.7 hours. The firm renegotiated contracts with 6 vendors based on performance data.
+
+Free vendor audit — give us 90 days of your vendor invoices and completion records. We'll run the AI audit and show you what you're overpaying. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 167. Move-In/Move-Out Management — Inspection Automation, Deposit Accounting & Turnover Optimization
+**Subject:** AI that cut one PM's turnover time from 21 days to 9 days — worth $183K/yr in recovered rent
+
+Hi `[Name]`,
+
+You process `[N]` move-outs per month across your properties. Your turnover process takes 18–25 days — inspection, repairs, painting, cleaning, new listing, showings, application, approval. Every extra day between tenants costs you `[$X]` in lost rent plus turnover overhead.
+
+I built an AI move-in/move-out management agent that:
+
+- Generates a complete move-out inspection report from a 3-minute video walkthrough — the AI identifies damage, compares against the move-in photos, estimates repair costs, and generates a security deposit disposition letter compliant with your state's laws
+- Creates a prioritized repair and turnover task list automatically — scheduling vendors in the optimal order (painting → floor repair → cleaning → final inspection) to minimize total downtime
+- Manages the lease-end timeline — sending residents renewal offers 60 days out, move-out instructions 30 days out, scheduling inspections, and processing deposits
+- Tracks turnover performance per unit, per property, per vendor — showing exactly which units turn fastest, which vendors deliver on time, and where the bottlenecks are
+
+For a 400-unit community averaging 12 move-outs/month, the AI turnover agent reduced average turnover time from 21 days to 9 days — recovering `[$183K/yr]` in otherwise lost rent. Security deposit disputes dropped from 34% of move-outs to 8%.
+
+Free turnover audit — send us 6 months of your move-in/move-out data. We'll show you your current turnover cost per unit and the improvement opportunity. Ready to see the numbers?
+
+Best,
+`[Your Name]`
+
+---
+
+### 168. Rent Collection & Delinquency Management — Automated Collections, Payment Plans & Eviction Prevention
+**Subject:** AI that reduced one PM's delinquency rate from 14% to 3% — worth $312K/yr
+
+Hi `[Name]`,
+
+Your portfolio carries `[N]%` rent delinquency. Your leasing office staff spends 15–20 hours per week on collection calls, payment follow-ups, and eviction paperwork. Each eviction costs `[$3K–$8K]` in legal fees plus lost rent and damages.
+
+I built an AI rent collection agent that:
+
+- Sends personalized payment reminders at strategic intervals — text on day 2 (friendly), email on day 5 (firm), phone call on day 8 (automated voice), and a final notice on day 12 (with late fee)
+- Offers customized payment plan options automatically — the AI assesses each tenant's payment history, lease term, and reason for non-payment, then offers the optimal plan: split payment, deferred payment with late fee waiver, or hardship deferment
+- Generates complete eviction documentation packages when needed — the AI fills in state-specific eviction forms, attaches the lease and ledger, and creates a timeline of every communication and notice sent
+- Analyzes delinquency patterns per property, per unit type, per season — predicting which tenants are at risk and prompting preventive outreach before they fall behind
+
+For a PM firm managing 2,800 units, the AI collection agent reduced average delinquency from 14.2% to 3.1%. Eviction filings dropped by 67%. Staff collection time went from 18 hrs/week to 3 hrs/week. The firm recovered `[$312K/yr]` in prevented write-offs.
+
+Free collections audit — send us 6 months of rent ledgers. We'll show you your collection efficiency score, delinquency trends, and the potential recovery. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 169. Lease Renewal & Resident Retention — Renewal Optimization, Resident Engagement & Churn Prediction
+**Subject:** AI that increased one PM's lease renewal rate from 52% to 81% — worth $419K/yr
+
+Hi `[Name]`,
+
+Your properties have a `[N]%` lease renewal rate. Every resident who moves out costs you `[$2K–$5K]` in turnover costs plus 18–25 days of vacancy. Your leasing team is reactive — they start talking renewal at 60 days out and hope for the best.
+
+I built an AI resident retention & renewal agent that:
+
+- Predicts which residents are likely to renew 120 days before their lease ends — using 24+ signals including payment timeliness, maintenance request frequency, communication responsiveness, amenity usage, and community engagement
+- Sends personalized renewal offers optimized for each resident's predicted likelihood to renew — early renewal discount for likely leavers, upgrade offer for likely renewers, referral bonus for advocates
+- Creates a 12-month resident engagement calendar automatically — birthday emails, renewal anniversary milestones, community event invites, upgrade offers at the right season
+- Analyzes why residents leave — categorizing move-out reasons across the portfolio, identifying property-level trends, and recommending operational improvements
+
+For a garden-style community with 480 units, the AI retention agent increased lease renewal rate from 52% to 81%. Average resident tenure increased from 18 months to 31 months. The community saved `[$419K/yr]` in avoided turnover costs and lost rent.
+
+Free retention audit — send us your last 12 months of move-out data with reasons. We'll analyze your churn patterns and show you exactly where retention improvements will have the biggest ROI. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### 170. Property Accounting & Owner Reporting — Financial Reconciliation, Variance Analysis & Portfolio Dashboard
+**Subject:** AI that cut one firm's month-end close from 12 days to 2 days for 22 properties
+
+Hi `[Name]`,
+
+Your property management firm handles accounting for `[N]` properties. Your month-end close takes 8–14 days — reconciling rent collections, vendor invoices, payroll, utility bills, and owner distributions. Your property owners are waiting for financials and asking questions every day.
+
+I built an AI property accounting agent that:
+
+- Automates month-end reconciliation — the AI matches every tenant payment to the rent roll, every vendor invoice to the job scope, every utility bill to the unit and property, generating a complete reconciliation in under 4 hours per 100 units
+- Generates owner-ready financial statements — balance sheet, income statement, cash flow statement, and variance analysis — comparing actuals to budget with variance explanations generated from the data
+- Calculates portfolio-level KPIs automatically — NOI, cap rate, cash-on-cash return, DSCR, occupancy trend, effective rent growth, expense ratio, and maintenance cost per unit
+- Monitors budget vs. actual daily — alerting you when any expense category exceeds 80% of budget or any revenue line drops below 90% of projection
+
+For a PM firm managing 22 properties (3,100 units), the AI accounting agent reduced month-end close from 12 days to 2 days. Owner distribution accuracy improved from 92% to 99.8%. The firm added 6 new properties without hiring additional accounting staff.
+
+Free accounting efficiency audit — upload your last 3 months of financial data (redacted). We'll show you your current close cycle time, reconciliation accuracy, and reporting completeness. Ready?
+
+Best,
+`[Your Name]`
+
+---
+
+### PRO-TIP: Property Management Email Sequences That Convert
+
+Property managers operate on a **quarterly budget cycle** — the best time to reach them is 60–90 days before their fiscal year-end (typically September–November for Jan 1 budgets or March–May for July 1 budgets). Key buying triggers:
+
+- **Rent roll decline** (occupancy drops below 92%) → pitch leasing/retention agents
+- **Maintenance cost spike** (cost-per-unit exceeds budget by 15%+) → pitch vendor management
+- **Staff turnover** (portfolio manager leaves) → pitch the full PM automation suite
+- **New property acquisition** (firm adds 100+ units) → perfect time for onboarding the accounting agent
+- **Ownership change** (new investor or board) → pitch compliance and reporting automation
+
+---
+
+## BONUS: Template Usage Quick-Reference (Updated — v3.1)
 
 | Section | Templates | Best For | Send Window | Follow-up Cadence |
 |---------|-----------|----------|-------------|-------------------|
@@ -3256,7 +3500,8 @@ Best,
 | v2.7 Agriculture & Farming | 121–130 | Crop farms, livestock, agri-retail, equipment, processing, vineyards | Tue–Thu mornings | Day 3, 7, 14 |
 | v2.8 Franchises & Multi-Location Ops | 131–140 | Franchise development, multi-unit operators, franchisee recruitment, multi-location ops | Tue–Thu mornings | Day 3, 7, 14 |
 | v2.9 Healthcare & Medical Practices | 141–150 | Medical, dental, PT, optometry, vet, urgent care, chiropractic practices | Tue–Thu mornings | Day 3, 7, 14 |
-| **v3.0 Construction & Contracting** | **151–160** | **General contractors, electrical, HVAC, concrete, roofing, equipment, subs, supply chain, safety, preconstruction** | **Tue–Thu mornings** | **Day 3, 7, 14** |
+|| **v3.0 Construction & Contracting** | **151–160** | **General contractors, electrical, HVAC, concrete, roofing, equipment, subs, supply chain, safety, preconstruction** | **Tue–Thu mornings** | **Day 3, 7, 14** |
+|| **v3.1 Property Management & Real Estate Operations** | **161–170** | **Property managers, multifamily, HOA/COA, commercial property, real estate investment, tenant screening, vendor management, turnover, rent collection, lease renewal, property accounting** | **Tue–Thu mornings** | **Day 3, 7, 14** |
 
 ---
 
@@ -3267,4 +3512,4 @@ Best,
 
 ---
 
-*Product Factory • Updated July 13, 2026 (v3.0) • $19 Suggested Retail (160 templates across 18 industry groups)*
+*Product Factory • Updated July 17, 2026 (v3.1) • $19 Suggested Retail (170 templates across 19 industry groups)*
