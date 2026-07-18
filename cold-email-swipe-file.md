@@ -1,6 +1,6 @@
 # Cold Email Swipe File
-## 170 Proven Templates for AI Automation Services
-### $19 — Updated July 17, 2026 (v3.1 — Property Management & Real Estate Operations Added)
+## 180 Proven Templates for AI Automation Services
+### $19 — Updated July 18, 2026 (v3.2 — Education, Training & EdTech Added)
 
 ---
 
@@ -3466,21 +3466,253 @@ Free accounting efficiency audit — upload your last 3 months of financial data
 Best,
 `[Your Name]`
 
+|---
+
+### PRO-TIP: Education & Training Email Sequences That Convert
+
+Educational institutions operate on **academic calendar cycles** — Q1 (Jan–Mar) is the prime buying window for new system implementations. Key buying triggers:
+- **Enrollment decline** (applications down 15%+) → pitch student recruitment & retention agents
+- **Accreditation visit upcoming** (6–12 months out) → pitch compliance & documentation automation
+- **New LMS or SIS implementation** → perfect time for integration & workflow agents
+- **Budget surplus** (end of fiscal year, typically June for K-12, May for higher ed) → pitch cost-saving automations
+- **Staff turnover** (registrar, admissions director, or dean leaves) → pitch handoff & knowledge management agents
+- **Remote/hybrid learning mandate** → pitch virtual classroom assistant & engagement tracking
+
 ---
 
-### PRO-TIP: Property Management Email Sequences That Convert
+## v3.2 — Education, Training & EdTech (Templates 171–180)
 
-Property managers operate on a **quarterly budget cycle** — the best time to reach them is 60–90 days before their fiscal year-end (typically September–November for Jan 1 budgets or March–May for July 1 budgets). Key buying triggers:
+### 171. K-12 School District — Enrollment, Attendance & Communication Automation
+**Subject:** AI that cut one district's enrollment processing from 3 weeks to 4 days
 
-- **Rent roll decline** (occupancy drops below 92%) → pitch leasing/retention agents
-- **Maintenance cost spike** (cost-per-unit exceeds budget by 15%+) → pitch vendor management
-- **Staff turnover** (portfolio manager leaves) → pitch the full PM automation suite
-- **New property acquisition** (firm adds 100+ units) → perfect time for onboarding the accounting agent
-- **Ownership change** (new investor or board) → pitch compliance and reporting automation
+Hi `[Name]`,
+
+Your school district is processing `[N]` new enrollments this year, each requiring: residency verification, immunization records, IEP review, previous school records request, bus route assignment, meal benefit application, and classroom placement. Your enrollment team is spending 40+ hours per week on manual data entry, chasing documents, and fielding parent calls asking "did you get my form?"
+
+I built an AI enrollment processing agent for a mid-sized district that:
+
+- Automates document intake — when a parent uploads a lease agreement, birth certificate, immunization record, or proof of residency, the AI extracts all relevant data, cross-references it against state requirements, flags what's missing, and sends the parent an automated text with exactly what they need to provide (e.g., "We received your child's birth certificate and immunization record. We still need: your current utility bill for proof of residency (accepted formats: PDF, JPG, PNG). Upload here: [link]")
+- Tracks every enrollment through a 12-step workflow — from initial application to first-day attendance — with automated reminders to the relevant staff member at each handoff point: "Day 3: Enrollment #EN-2024-3842 (Smith, Amelia) — immunization record received but not yet reviewed by school nurse. Enrollment target: Day 5. Currently: Day 3. On track."
+- Generates daily attendance reports by pulling data from the SIS, cross-referencing with bus boardings and cafeteria swipes, and flagging students with 3+ consecutive unexcused absences for counselor intervention — including a summary of academic performance trends for each flagged student
+- Automates parent communication — sends weekly attendance summaries, progress report alerts, and emergency closure notifications in English and Spanish
+
+For a district with `[12,000]` students across `[18]` schools, the AI enrollment agent reduced processing time from 3 weeks to 4 days, cut document chase calls by 80%, and improved first-day attendance from 87% to 96%.
+
+Free enrollment audit — we'll analyze your current processing time, document re-request rate, and attendance tracking gaps, then project the capacity you can unlock. Worth a call?
+
+Best,
+`[Your Name]`
 
 ---
 
-## BONUS: Template Usage Quick-Reference (Updated — v3.1)
+### 172. Higher Education — Admissions, Recruitment & Yield Optimization
+**Subject:** AI that increased one university's enrollment yield from 23% to 41%
+
+Hi `[Name]`,
+
+Your admissions team is managing `[N]` applications this cycle, each requiring: transcript evaluation, test score verification, essay review, recommendation letter tracking, extracurricular activity scoring, and financial aid assessment. Your recruitment team is burning out trying to personally follow up with every promising applicant.
+
+I built an AI admissions & yield optimization agent for a mid-sized university that:
+
+- Scores every application against 14 admission criteria in under 30 seconds — GPA, test scores, course rigor, essay quality (using rubric-based NLP scoring), recommendation letter strength, extracurricular depth, demographic diversity factors, legacy status, special talent designations, geographic diversity, first-generation status, financial aid need level, and demonstrated interest — then generates a ranked admit/waitlist/deny recommendation with a confidence score and rationale for each borderline case
+- Automates personalized recruitment outreach — when a prospective student visits the campus, attends a virtual info session, or downloads a viewbook, the AI sends a tailored follow-up based on their expressed interests: "Hi Alex, thanks for attending our Engineering Virtual Info Session! Based on your questions about the robotics lab and co-op program, I've attached a one-page summary of our Mechanical Engineering track's industry partnerships. Would you like to schedule a call with a current student in the program?"
+- Tracks yield through a 10-stage pipeline — inquiry → application started → application submitted → documents complete → under review → accepted → financial aid letter sent → campus visit booked → deposit paid → orientation registered — and automatically triggers interventions at risk stages (e.g., "Day 21 after acceptance without deposit: 142 students at risk. 68 have visited campus. 45 have unmet financial aid questions. 29 have not opened any emails in 14 days. Recommended actions: SMS blast to the 29 disengaged, personalized financial aid follow-up to the 45, alumni ambassador call to the 68 visitors.")
+- Generates a daily admissions dashboard for the VP of Enrollment: "You have 3,842 applications in review. 1,201 are likely admits (GPA ≥ 3.7, test scores ≥ 1300). 487 are yield priorities (high-fit, likely to enroll elsewhere). 42 are legacy candidates with borderline scores. Your top 10 high schools by feeder count: [list]. Current projected yield: 29%. Target: 35%. Gap: 348 deposits."
+
+For a private university with `[15,000]` applicants, the AI admissions agent increased yield from 23% to 41% (+$4.2M incremental tuition revenue per cohort) while reducing admissions team overtime by 60%.
+
+Free enrollment yield audit — we'll analyze your current funnel conversion rates, engagement drop-off points, and financial aid responsiveness, then project the yield lift you can achieve. Worth 15 minutes?
+
+Best,
+`[Your Name]`
+
+---
+
+### 173. EdTech / Online Learning Platform — Student Engagement & Retention
+**Subject:** AI that cut course dropout rates from 37% to 11%
+
+Hi `[Name]`,
+
+Your online learning platform has `[N]` active students, but if you're like most EdTech companies, 30–40% of them will drop out within the first 30 days. The problem isn't the content — it's the lack of personalized support at scale.
+
+I built an AI student engagement & retention agent for an online course platform that:
+
+- Monitors every student's engagement signals — login frequency, video completion rate, quiz performance, forum participation, assignment submission timeliness, and help center searches — and assigns a real-time dropout risk score: "Student #1042 (Sarah Chen) — Course: Advanced Data Science — Week 4 of 12 — Engagement score: 42/100 (down from 78 in Week 2). Risk: HIGH. Triggers: hasn't logged in 8 days, 0% Week 4 video completion, 2 unanswered questions in the forum. Recommended intervention: personalized re-engagement email + free 1-on-1 tutoring session."
+- Sends automated, context-aware interventions based on the student's specific behavior pattern — the disengaged student gets a "We miss you" email with a summary of what they've accomplished and a link to the next module; the struggling student gets a "You're stuck on [topic] — here's a video walkthrough" message with a link to office hours; the high-performing student gets a "You're in the top 5% — want to mentor other students?" nudge
+- Generates weekly cohort analysis reports for the product team: "Cohort 2026-05 (Data Science Track, 847 students): Week 4 retention: 63% (target: 75%). Key drop-off point: Module 3.2 (Linear Regression assignment). Students who completed the assignment have 89% retention; students who skipped it have 34% retention. Recommendation: add automated hints and a video walkthrough for Module 3.2."
+- Automates instructor workload — drafting weekly cohort emails, summarizing forum Q&A into FAQ documents, flagging at-risk students with personalized notes, and generating assessment rubrics from course objectives
+
+For a platform with `[50,000]` active learners, the AI engagement agent reduced 30-day dropout from 37% to 11%, increased course completion rate from 29% to 58%, and saved the instructional team 25 hours/week in manual student monitoring.
+
+Free engagement audit — we'll analyze your current cohort retention curves, identify the exact drop-off points, and project the engagement lift. Ready to see the analysis?
+
+Best,
+`[Your Name]`
+
+---
+
+### 174. Tutoring & Test Prep Center — Scheduling, Assessment & Progress Tracking
+**Subject:** AI that cut one tutoring center's scheduling overhead from 15 hrs/week to 90 minutes
+
+Hi `[Name]`,
+
+Your tutoring center is managing `[N]` students across `[M]` subjects, each with their own assessment scores, learning plan, session schedule, homework assignments, parent communication preferences, and progress benchmarks. Your administrative team is buried in scheduling conflicts, rescheduling requests, missed sessions, and progress report creation.
+
+I built an AI tutoring center operations agent that:
+
+- Manages the entire scheduling workflow — students book sessions through a portal, the AI confirms the booking, checks tutor availability, sends calendar invites, and follows up 24 hours before with a reminder and a link to the session materials. Cancellations trigger automatic rescheduling with the same tutor or the highest-rated available alternative
+- Tracks every student's academic progress across assessments, homework completion rates, session attendance, and test score improvements — then generates a weekly progress report for parents: "Mia's Math Progress — Week 12 of 16: SAT Math baseline: 540. Current: 620 (+80 points). Topics covered: Algebra fundamentals (92% mastery), Geometry (78% mastery), Data Analysis (65% mastery — still working on this). Sessions attended: 11 of 12. Homework completion: 89%. Next milestone: PSAT practice test on Oct 15. Recommended: 2 additional sessions before test day."
+- Generates individualized study plans based on diagnostic assessment results — identifying the student's weakest areas, recommending a sequence of topics, setting target scores, and scheduling corresponding sessions: "For Alex, based on the SAT diagnostic: Critical Reading is the weakest area (56th percentile). Recommended plan: 8 sessions of Reading Comprehension (weeks 1–4), 4 sessions of Vocabulary in Context (weeks 3–5), 6 sessions of Writing & Language (weeks 5–8). Target: 650+ on the March SAT."
+- Automates tutor matching — pairing students with the tutor who has the highest success rate with similar students (same subject, similar score gap, similar learning style from past assessments)
+
+For a tutoring center with `[300]` active students and `[25]` tutors, the AI scheduling & progress agent reduced administrative overhead from 15 hours/week to 90 minutes, improved session attendance from 72% to 91%, and increased parent satisfaction scores from 3.8 to 4.7 stars.
+
+Free operations audit — we'll analyze your current scheduling efficiency, no-show rate, and progress reporting gaps. Worth a quick call?
+
+Best,
+`[Your Name]`
+
+---
+
+### 175. Corporate Training & L&D — Course Management, Compliance & Skills Tracking
+**Subject:** AI that cut one company's training compliance gap from 34% to 4%
+
+Hi `[Name]`,
+
+Your organization requires `[N]` employees to complete `[M]` mandatory training courses each year — compliance, safety, harassment prevention, data privacy, role-specific certifications. Your L&D team is spending 60% of their time chasing employees for overdue courses, manually tracking completion status, and generating compliance reports for auditors.
+
+I built an AI corporate training & compliance agent that:
+
+- Automates the entire training lifecycle — course assignment based on role, department, location, and certification expiry; enrollment confirmation; calendar integration; reminder sequences (7 days before, 3 days before, 1 day before, day of); and escalation to the employee's manager if the course is more than 5 days overdue
+- Tracks completion status across every training requirement and generates a real-time compliance dashboard: "Overall compliance: 94%. Departments: Engineering 98%, Finance 96%, Sales 91%, Operations 87% (⚠️ below 90% threshold). Employees with 5+ overdue courses: 24. Courses with lowest completion: Data Privacy (83%), Workplace Harassment Prevention (87%), ISO 27001 Awareness (79%). Risk: 3 departments below 90% compliance threshold for Q3 audit."
+- Generates personalized learning paths by analyzing each employee's role, performance review gaps, career aspirations, and past course completions — then recommending a sequence of courses, workshops, and certifications that build toward their next role: "For Sarah (Senior Analyst → Manager track): Recommended learning path — Leading Teams (4 weeks), Difficult Conversations (2 weeks), Financial Management for Non-Finance Managers (3 weeks), Managerial Excellence (6 weeks). Prerequisites: complete Manager Readiness Assessment (30 min). Estimated time to certification: 16 weeks."
+- Automates skills gap analysis — scraping performance review data, manager feedback, and project outcomes to identify skill deficiencies across the organization: "Top 3 skill gaps in Engineering: (1) Cloud Architecture — 62% of senior engineers lack certification, (2) AI/ML Fundamentals — 78% of junior engineers have no formal training, (3) Technical Writing — 45% of documentation is flagged as inadequate. Recommended: create a Cloud Architecture track (priority: high), add AI/ML bootcamp (priority: medium), offer Technical Writing workshop (priority: medium)."
+
+For a company with `[2,500]` employees and `[40]` required training courses, the AI training agent reduced compliance gaps from 34% to 4%, cut L&D administrative overhead by 70%, and saved `[$280K/yr]` in compliance fine exposure.
+
+Free compliance audit — we'll analyze your current training completion rates, compliance gaps, and skills readiness. Ready to see the analysis?
+
+Best,
+`[Your Name]`
+
+---
+
+### 176. Higher Education — Research Administration & Grant Management
+**Subject:** AI that cut one university's grant proposal processing time from 3 weeks to 5 days
+
+Hi `[Name]`,
+
+Your research office is managing `[N]` active grants and `[M]` proposals under development, each with its own budget, compliance requirements, reporting deadlines, personnel commitments, and sponsor terms. Your grants administrators are drowning in manual data entry, compliance checking, budget reconciliation, and reporting.
+
+I built an AI research administration & grant management agent for a research university that:
+
+- Automates proposal intake — when a faculty member initiates a new grant proposal, the AI scrapes the RFP, extracts key requirements (deadline, budget cap, cost-sharing requirements, personnel eligibility, indirect cost rate, submission format), pre-fills the proposal template, and alerts the faculty member to any potential conflicts: "NIH RFA-RM-24-012: Budget cap is $500K/yr. Your proposed budget is $575K/yr. Options: (1) reduce scope by 15%, (2) request a budget waiver with justification, (3) adjust the timeline to spread costs across 2 budget periods. Recommended: Option 1."
+- Tracks every proposal through a 15-stage workflow — concept paper → PI assignment → budget development → compliance review → internal approval → institutional sign-off → sponsor submission → application receipt → peer review → score notification → award negotiation → award setup → account creation → reporting schedule → grant closeout — with automated deadline alerts and task assignments at each stage
+- Generates monthly portfolio reports for the VP of Research: "Current portfolio: 147 active grants, $42.3M total funding, 84% of budget expended. 23 proposals under review (average score: 2.8, target: ≤2.5). 9 awards pending setup (total value: $3.8M). 12 grants expiring within 90 days (total value: $4.2M — renewal risk: medium). Top 5 funding agencies: NSF (38%), NIH (27%), DoD (12%), DOE (8%), Foundations (15%)."
+- Automates compliance monitoring — scanning grant terms against actual expenditures, personnel effort reporting, and deliverable deadlines, then flagging potential violations: "Grant #NSF-2241-AB (Dr. Williams): 3-month reporting deadline is Oct 15. Current status: 0% of required deliverables submitted. Cost share requirement: 20% ($40K). Current cost share: $12K (30% of requirement). Risk: MODERATE. Cumulative expenditures: 65% of budget at 70% of project timeline. Status: ON TRACK."
+
+For a research university with `[$150M]` in annual grant funding, the AI research administration agent reduced proposal processing from 3 weeks to 5 days, cut compliance audit findings by 80%, and recovered `[$2.1M]` in uncaptured indirect costs.
+
+Free grant operations audit — we'll analyze your current proposal cycle time, compliance gap rate, and indirect cost recovery. Worth a call?
+
+Best,
+`[Your Name]`
+
+---
+
+### 177. Early Childhood Education & Daycare — Enrollment, Billing & Parent Communication
+**Subject:** AI that cut one daycare's billing admin from 8 hrs/week to 30 minutes
+
+Hi `[Name]`,
+
+Your early childhood center is managing `[N]` children across `[M]` classrooms, each with complex schedules — full-time, part-time, drop-in, before/after-care, half-day — and every family has a different billing arrangement, pickup authorization list, allergy/care plan, and communication preference. Your director is spending evenings on billing and parent emails instead of running the center.
+
+I built an AI daycare operations agent that:
+
+- Automates attendance tracking — when a child is checked in or out via the center's app or kiosk, the AI logs the time, calculates the exact billing amount based on the family's schedule type, and flags discrepancies (e.g., "Emma Carter was scheduled for half-day (8am–12pm) but was picked up at 3:15pm. Overage fee: $35. Auto-billed to the card on file.")
+- Generates automated weekly billing — calculating tuition, overage fees, late pickup fees, supply fees, and field trip charges, then generating itemized invoices and sending them to each family via email or the parent portal, with one-click payment links
+- Sends daily parent communication — a morning summary at 9am ("Today's activities: water play, story time, sensory table. Please send sunscreen and a change of clothes for Mia.") and an end-of-day report at 4pm ("Mia had a great day! She ate all her lunch, napped for 90 minutes, and loved the water play activity. Potty note: 2 accidents, 1 success. Pictures attached.")
+- Manages emergency & allergy tracking — maintaining a real-time database of every child's allergies, medical conditions, emergency contacts, pickup authorizations, and custody arrangements, and alerting staff when a child with a known allergy is served a meal containing that allergen: "⚠️ ALERT: Chicken nuggets are on today's lunch menu. Child: Ethan Park (Room 3) has a severe egg allergy. The chicken nuggets contain egg in the breading. Substitute: turkey sandwich and fruit cup. Please confirm at 11:30am."
+
+For a center with `[120]` children and `[18]` staff, the AI daycare operations agent reduced billing admin from 8 hours/week to 30 minutes, improved parent satisfaction scores from 3.5 to 4.8 stars, and reduced late pickup incidents by 60%.
+
+Free center operations audit — we'll analyze your current billing accuracy, parent communication gaps, and staff administrative burden. Worth 15 minutes?
+
+Best,
+`[Your Name]`
+
+---
+
+### 178. Study Abroad & International Education — Application Processing, Visa & Compliance
+**Subject:** AI that cut one study abroad office's application processing time from 2 weeks to 3 days
+
+Hi `[Name]`,
+
+Your study abroad office is managing `[N]` program applications this cycle, each requiring: GPA verification, academic advisor approval, language proficiency assessment, host institution application, course equivalency mapping, visa document preparation, health insurance verification, housing assignment, and pre-departure orientation. Your team is spending 70% of their time on document processing instead of student advising.
+
+I built an AI study abroad operations agent that:
+
+- Automates the entire application pipeline — from initial interest form through post-trip re-entry — tracking every document, approval, and deadline: "Student #2084 (James Liu) — Program: Barcelona Semester — Stage: Visa Preparation (6 of 12). Documents received: acceptance letter, passport copy, financial guarantee. Documents needed: visa application form (not yet started), flight itinerary, health insurance certificate, proof of accommodation. Visa appointment: Aug 15. Days remaining: 18. Status: ⚠️ BEHIND — recommend visa appointment reschedule or expedited document gathering."
+- Generates course equivalency recommendations automatically — when a student submits a host institution course catalog, the AI cross-references each course against the home institution's curriculum, suggests equivalency matches, and generates a draft approval form for the academic advisor: "Host course: UB-301 'International Marketing' (3 credits, University of Barcelona). Home equivalent: MKT-320 'Global Marketing Strategy' (3 credits). Match confidence: 92%. Key differences: UB-301 includes a local market research project (no equivalent at home). Recommendation: approve as MKT-320 elective with independent study add-on for the research project component."
+- Manages visa compliance — tracking every student's visa type, expiration date, work authorization, and travel restrictions, and sending automated reminders: "⚠️ Student #1956 (Sofia Martinez) — J-1 visa expires Aug 31. Academic program ends Aug 15. She has a 30-day grace period until Sep 30. She has NOT submitted her end-of-program report or departure confirmation. Action required: send end-of-program checklist and remind her of the 30-day grace period rules."
+- Generates emergency response protocols — maintaining a real-time database of every student's location, host institution contact, emergency contact, medical conditions, and insurance info, and the AI can initiate a mass communication sequence in case of a security incident: "EMERGENCY: Security incident in [city]. 12 students confirmed safe. 2 students unconfirmed — last known location: [address]. Activating check-in protocol: SMS, WhatsApp, email, and phone call to each unconfirmed student. Consular notification: initiated. Parents notified: 8 of 14."
+
+For a study abroad office managing `[500]` students across `[30]` programs, the AI operations agent reduced application processing from 2 weeks to 3 days, cut visa rejection rates from 12% to 3%, and saved `[$180K/yr]` in administrative costs.
+
+Free program operations audit — we'll analyze your current application cycle time, visa rejection rate, and document processing efficiency. Ready to see the analysis?
+
+Best,
+`[Your Name]`
+
+---
+
+### 179. EdTech SaaS — Lead Generation, Demo Scheduling & Trial Conversion
+**Subject:** AI that increased one EdTech company's trial-to-paid conversion from 18% to 43%
+
+Hi `[Name]`,
+
+Your education technology company has `[N]` free trial sign-ups per month, but if you're like most EdTech SaaS companies, the majority of those trials never convert to paid. The problem isn't product-market fit — it's that school administrators, teachers, and district buyers evaluate products differently and need different touchpoints at different stages of the buying process.
+
+I built an AI sales & trial conversion agent for an EdTech platform that:
+
+- Scores every trial sign-up on 12 buyer-fit criteria — school/district type, student count, current tech stack, title of signer (teacher vs. administrator vs. IT director vs. superintendent), budget authority, implementation timeline, decision-making process (individual vs. committee), previous experience with similar tools, integration needs, compliance requirements, training needs, and district approval requirements — then routes them to the appropriate sales motion
+- Automates personalized trial onboarding — when a teacher signs up, the AI sends a product walkthrough tailored to their subject area and grade level; when an administrator signs up, the AI sends a dashboard overview focused on analytics and reporting; when an IT director signs up, the AI sends integration documentation and security compliance details
+- Tracks every trial account through a 10-stage conversion funnel — sign-up → first login → core feature activation → integration setup → team expansion → usage milestone → ROI demonstration → procurement conversation → approval → paid conversion — and triggers automated interventions at each stage: "Trial #T-8921 (Lincoln Elementary, 14 days remaining): Grade level visibility is 72% (teachers using the product). Core feature activation: Gradebook (100%), Assessment (65%), Communication (32%). The school has NOT invited parents yet. Recommended intervention: send the school admin a personalized parent engagement report showing how Lincoln compares to similar schools using the product."
+- Generates weekly sales intelligence reports: "You have 47 active trials in the pipeline. 12 are high-conversion probability (score ≥ 85). 8 are approaching expiry (≤ 7 days remaining). 3 are stalled at integration setup. 2 are being evaluated by a committee (district-level). Your top 5 trials by revenue potential: [list]. Recommended: prioritize the 3 stalled at integration — send a 1-on-1 integration specialist call."
+
+For an EdTech SaaS with `[5,000]` monthly trials, the AI trial conversion agent increased trial-to-paid conversion from 18% to 43%, reduced sales development rep workload by 65%, and added `[$2.4M/yr]` in incremental revenue.
+
+Free trial audit — we'll analyze your current trial funnel, conversion bottlenecks, and buyer engagement gaps. Worth a call?
+
+Best,
+`[Your Name]`
+
+---
+
+### 180. Trade School & Vocational Training — Student Recruitment, Certification & Job Placement
+**Subject:** AI that increased one trade school's job placement rate from 61% to 84%
+
+Hi `[Name]`,
+
+Your vocational school is training students for careers in `[field — e.g., welding, HVAC, electrical, medical assisting, CDL]` and managing the full lifecycle: recruitment → enrollment → attendance → certification → job placement. Your team is juggling enrollment targets, attendance tracking, certification exam coordination, employer partnerships, and graduate placement — all while competing with other trade schools for a limited pool of students.
+
+I built an AI trade school operations agent that:
+
+- Automates student recruitment by scraping local job postings, identifying high-demand trade skills, and targeting prospective students in those geographic areas with personalized program recommendations: "3,200 new HVAC technician job postings in the Dallas metro area in the last 90 days. Average starting salary: $48K. 15 local HVAC companies with 5+ open positions each. Recommended: target campaign to 'Dallas + HVAC + career change' audience segments with your 12-week HVAC certification program (job placement rate: 84%, average starting salary: $52K)."
+- Tracks every student through certification exam readiness — monitoring practice test scores, attendance, lab hours, and instructor assessments, then predicting exam readiness: "Student #3041 (Marcus Johnson) — Electrical Apprenticeship — Exam readiness: 72% (target: 85%). Practice exam scores: Code Knowledge 68%, Theory 74%, Practical Application 71%. Attendance: 88% (target: 95%). Lab hours: 142 of 200 required. Recommended: 3 additional tutoring sessions (Code Knowledge focus), 8 additional lab hours, and a retake of the practice exam in 2 weeks."
+- Manages employer partnerships — maintaining a database of `[N]` partner employers, their hiring needs, preferred program graduates, and past placement success rates, then matching graduates to open positions automatically: "Graduating cohort: 24 students, 4 programs (Welding, HVAC, Electrical, Plumbing). Employer needs: 8 welders (ABC Fabrication), 5 HVAC techs (CoolAir Services), 3 electricians (J&J Electric), 2 plumbers (PipePro). Matching graduates: 6 welders identified (3 have 90%+ competency scores), 4 HVAC techs, 2 electricians, 1 plumber. Recommended: schedule employer matching events for the 3 under-matched programs."
+- Generates monthly placement & outcomes reports for the board: "Current cohort: 84 students across 6 programs. Graduation rate: 78% (target: 85%). Certification exam pass rate: 71% (target: 80%). Job placement rate: 67% (target: 75%). Average starting salary: $46,200 (up 8% from last year). Top hiring employers: [list]. Program performance: HVAC (92% placement), Electrical (78%), Welding (65%), Medical Assisting (54%). Recommended: review Medical Assisting curriculum and employer partnerships."
+
+For a trade school with `[600]` students across `[6]` programs, the AI operations agent increased job placement rate from 61% to 84%, cut administrative overhead by 55%, and reduced student dropout from 28% to 14%.
+
+Free school operations audit — we'll analyze your current recruitment pipeline, certification pass rates, and placement outcomes. Worth 15 minutes?
+
+Best,
+`[Your Name]`
+
+---
+
+## BONUS: Template Usage Quick-Reference (Updated — v3.2)
 
 | Section | Templates | Best For | Send Window | Follow-up Cadence |
 |---------|-----------|----------|-------------|-------------------|
@@ -3501,7 +3733,8 @@ Property managers operate on a **quarterly budget cycle** — the best time to r
 | v2.8 Franchises & Multi-Location Ops | 131–140 | Franchise development, multi-unit operators, franchisee recruitment, multi-location ops | Tue–Thu mornings | Day 3, 7, 14 |
 | v2.9 Healthcare & Medical Practices | 141–150 | Medical, dental, PT, optometry, vet, urgent care, chiropractic practices | Tue–Thu mornings | Day 3, 7, 14 |
 || **v3.0 Construction & Contracting** | **151–160** | **General contractors, electrical, HVAC, concrete, roofing, equipment, subs, supply chain, safety, preconstruction** | **Tue–Thu mornings** | **Day 3, 7, 14** |
-|| **v3.1 Property Management & Real Estate Operations** | **161–170** | **Property managers, multifamily, HOA/COA, commercial property, real estate investment, tenant screening, vendor management, turnover, rent collection, lease renewal, property accounting** | **Tue–Thu mornings** | **Day 3, 7, 14** |
+||| **v3.1 Property Management & Real Estate Operations** | **161–170** | **Property managers, multifamily, HOA/COA, commercial property, real estate investment, tenant screening, vendor management, turnover, rent collection, lease renewal, property accounting** | **Tue–Thu mornings** | **Day 3, 7, 14** |
+||| **v3.2 Education, Training & EdTech** | **171–180** | **K-12 school districts, higher education, EdTech, tutoring/test prep, corporate training, research administration, early childhood/daycare, study abroad, EdTech SaaS, trade/vocational schools** | **Tue–Thu mornings** | **Day 3, 7, 14** |
 
 ---
 
@@ -3512,4 +3745,4 @@ Property managers operate on a **quarterly budget cycle** — the best time to r
 
 ---
 
-*Product Factory • Updated July 17, 2026 (v3.1) • $19 Suggested Retail (170 templates across 19 industry groups)*
+*Product Factory • Updated July 18, 2026 (v3.2) • $19 Suggested Retail (180 templates across 20 industry groups)*

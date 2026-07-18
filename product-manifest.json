@@ -1,0 +1,28 @@
+{
+  "product": "Cold Email Swipe File PRO",
+  "version": "3.2",
+  "updated": "2026-07-18",
+  "description": "180 proven cold email templates across 20 industry groups for AI automation services outreach",
+  "new_in_version": "10 Education, Training & EdTech templates (K-12, Higher Ed, EdTech, Tutoring, Corporate Training, Research Admin, Daycare, Study Abroad, EdTech SaaS, Trade Schools)",
+  "industries_covered": 20,
+  "total_templates": 180,
+  "templates": 180,
+  "new_industry": "Education, Training & EdTech (K-12, Higher Ed, EdTech, Tutoring, Corporate Training, Research Admin, Daycare, Study Abroad, EdTech SaaS, Trade Schools)",
+  "new_templates": [
+    "171. K-12 School District — Enrollment, Attendance & Communication Automation",
+    "172. Higher Education — Admissions, Recruitment & Yield Optimization",
+    "173. EdTech / Online Learning Platform — Student Engagement & Retention",
+    "174. Tutoring & Test Prep Center — Scheduling, Assessment & Progress Tracking",
+    "175. Corporate Training & L&D — Course Management, Compliance & Skills Tracking",
+    "176. Higher Education — Research Administration & Grant Management",
+    "177. Early Childhood Education & Daycare — Enrollment, Billing & Parent Communication",
+    "178. Study Abroad & International Education — Application Processing, Visa & Compliance",
+    "179. EdTech SaaS — Lead Generation, Demo Scheduling & Trial Conversion",
+    "180. Trade School & Vocational Training — Student Recruitment, Certification & Job Placement"
+  ],
+  "suggested_price": 19,
+  "bundle_price": 37,
+  "landing_page": "https://tennie321.github.io/cold-email-swipe-file-pro/",
+  "repo": "https://github.com/Tennie321/cold-email-swipe-file-pro",
+  "file": "cold-email-swipe-file.md"
+}
